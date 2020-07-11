@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About the QCC Lab"
+excerpt: "About the QCC Lab"
 author_profile: true
 redirect_from: 
   - /about/
