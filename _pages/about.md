@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Our research aim is to influence clinical translation by improving our ability to detect and ultimately prevent cancer at the earliest stages. To achieve this, our team develops ways to use quantitative reasoning (e.g., master equations, formal proofs) to better understand why we witness the plethora of various data from cancer epidemiology and experimental systems. Multi-scale cancer data measured currently, from incidence to genomic changes in a cell, is typically correlated in an unclear way until mathematical equations are applied to provide explanations. Our work requires integration with inter-disciplinary fields (e.g., screening guideline committees, clinicians, geneticists, molecular and computational biologists) that are primed for novel quantitative analyses beyond those currently employed in clinical practice and decisions.
+Our research aim is to influence clinical translation by improving our ability to detect and ultimately prevent cancer at the earliest stages. To achieve this, our team develops ways to use quantitative reasoning (e.g., master equations, formal proofs) to better understand why we witness the plethora of various data from cancer epidemiology and experimental systems. Multi-scale cancer data measured currently, from incidence to genomic changes, is correlated due to the underlying process of somatic evolution, and mathematical equations can help harmonize such data. Our work requires integration with inter-disciplinary fields (e.g., screening guideline committees, clinicians, geneticists, molecular and computational biologists) that are primed for novel quantitative analyses beyond those currently employed in clinical practice and decisions.
 
 <figure>
   <a href="/images/QCC_Logo_1.png">
