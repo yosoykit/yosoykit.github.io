@@ -9,7 +9,7 @@ redirect_from:
 ---
 <figure>
   <a href="/images/QCC_Logo_1.png">
-  <img src="/images/QCC_Logo_1.png" alt = "The QCC logo" />
+  <img src="/images/QCC_Logo_1.png" alt = "The QCC logo" width="50" />
     </a>
 </figure>
 
