@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Quantitative Cancer Control Lab"
 title_separator          : "-"
 name                     : &name "Kit Curtius, PI"
-description              : &description "Mathematical modeling to improve cancer prevention"
+description              : &description "Combining mathematical modeling and data science to improve cancer prevention"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kit Curtius, PI"
   avatar           : "profile.png"
-  bio              : "Mathematical modeling to improve cancer prevention"
+  bio              : "Combining mathematical modeling and data science to improve cancer prevention and control"
   location         : "University of California, San Diego"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=kit+curtius"
