@@ -7,13 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
+Our research aim is to influence clinical translation by improving our ability to detect and ultimately prevent cancer at the earliest stages. To achieve this, our team develops ways to use logical and quantitative reasoning (e.g., master equations, formal proofs) to better understand why we witness the plethora of various data from cancer epidemiology and experimental systems. My research perspective is that multi-scale cancer data measured currently, from population-level incidence to genomic changes in a cell, is typically correlated in an unclear way until mathematical equations are applied to provide explanations. Our work requires integration with inter-disciplinary fields (e.g., screening guideline committees, clinicians, geneticists, molecular and computational biologists) that are primed for novel quantitative analyses beyond those currently employed in clinical practice and decisions.
+
 <figure>
   <a href="/images/QCC_Logo_1.png">
   <img src="/images/QCC_Logo_1.png" alt = "The QCC logo" width="500" />
     </a>
 </figure>
-
-Our research aim is to influence clinical translation by improving our ability to detect and ultimately prevent cancer at the earliest stages. To achieve this, our team develops ways to use logical and quantitative reasoning (e.g., master equations, formal proofs) to better understand why we witness the plethora of various data from cancer epidemiology and experimental systems. My research perspective is that multi-scale cancer data measured currently, from population-level incidence to genomic changes in a cell, is typically correlated in an unclear way until mathematical equations are applied to provide explanations. Our work requires integration with inter-disciplinary fields (e.g., screening guideline committees, clinicians, geneticists, molecular and computational biologists) that are primed for novel quantitative analyses beyond those currently employed in clinical practice and decisions.
 
 A data-driven personal website
 ======
