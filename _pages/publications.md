@@ -6,10 +6,18 @@ author_profile: true
 ---
 <div class="page" title="Page 2">
 <div class="layoutArea">
+<div class="column">
+
+Pre-prints
+======
+<p>18. <strong>Curtius K</strong>, Rubenstein JH, Chak A, Inadomi JM. (2020)<a href="https://www.biorxiv.org/content/10.1101/2020.05.14.096826v1.abstract" target="_blank"> Barrett's esophagus is the precursor of all esophageal adenocarcinomas.</a>  bioRxiv doi:10.1101/2020.05.14.096826 
 <p>17. <strong>Curtius K*</strong>, Kabir M*, Al Bakir I, Choi CHR, Hartono J, et al. (2020) <a href="https://www.medrxiv.org/content/10.1101/2020.04.10.20057869v1" target="_blank"> Multi-centre derivation and validation of a colitis-associated colorectal cancer risk prediction web-tool.</a>  medRxiv doi: 10.1101/2020.04.10.20057869 *joint first authors 
-</p><p>16. <strong>Curtius K</strong>, Dewanji A, Hazelton WD, Rubenstein JH, Luebeck EG, (2020) <a href="https://www.biorxiv.org/content/10.1101/2020.02.11.927475v1" target="_blank">Optimal timing for cancer screening and adaptive surveillance using mathematical modeling.</a> bioRxiv doi:10.1101/2020.02.11.927475.
-</p><p>15. Saunderson EA, Baker AM, Williams M, <strong>Curtius K</strong>,  Jones JL, et al. (2020) <a href="https://academic.oup.com/nargab/article/2/1/lqz017/5678524" target="_blank">A novel method of single strand library preparation for whole genome sequencing of formalin-fixed paraffin-embedded tissue samples.</a> NAR Genom and Bioinform 2(1):lqz017
-</p><p>14. Tamura N, Shaikh N, Muliaditan D, McGuinness J, Moralli D,et al. (2019) <a href="https://www.biorxiv.org/content/10.1101/727537v1?rss=1" target="_blank">Mechanisms of Chromosomal Instability in High-grade Serous Ovarian Carcinoma.</a> bioRxiv 727537; doi: 10.1101/727537
+</p><p>16. <strong>Curtius K</strong>, Dewanji A, Hazelton WD, Rubenstein JH, Luebeck EG. (2020) <a href="https://www.biorxiv.org/content/10.1101/2020.02.11.927475v1" target="_blank">Optimal timing for cancer screening and adaptive surveillance using mathematical modeling.</a> bioRxiv doi:10.1101/2020.02.11.927475.
+</p><p>15. Tamura N, Shaikh N, Muliaditan D, McGuinness J, Moralli D,et al. (2019) <a href="https://www.biorxiv.org/content/10.1101/727537v1?rss=1" target="_blank">Mechanisms of Chromosomal Instability in High-grade Serous Ovarian Carcinoma.</a> bioRxiv 727537; doi: 10.1101/727537
+
+Peer-reviewed 
+======
+</p><p>14. Saunderson EA, Baker AM, Williams M, <strong>Curtius K</strong>,  Jones JL, et al. (2020) <a href="https://academic.oup.com/nargab/article/2/1/lqz017/5678524" target="_blank">A novel method of single strand library preparation for whole genome sequencing of formalin-fixed paraffin-embedded tissue samples.</a> NAR Genom and Bioinform 2(1):lqz017
 </p><p>13.  Rockne R, Hawkins-Daarud A, Swanson K, Sluka J, Glazier J, et al. (2019)  <a href="https://iopscience.iop.org/article/10.1088/1478-3975/ab1a09/meta" target="_blank">The 2019 Mathematical Oncology Roadmap.</a> Phys Biol doi: 10.1088/1478-3975/ab1a09 
 </p><p>12.  Baker AM*, Cross WC*,<strong>Curtius K*</strong>, Al Bakir I*, Choi CHR*, et al. (2019)  <a href="https://gut.bmj.com/content/68/6/985.abstract" target="_blank">The evolutionary history of human colitis-associated colorectal cancer</a>. Gut 68:985-995.,  *joint first authors
 </p><p>11.  Luebeck EG, Hazelton WD, <strong>Curtius K</strong>, Maden S, Yu M, et al. (2019) <a href="http://cancerres.aacrjournals.org/content/early/2018/12/19/0008-5472.CAN-18-1682.full-text.pdf" target="_blank">Implications of Epigenetic Drift in Colorectal Neoplasia</a>. Cancer Res 79(3):495-504
