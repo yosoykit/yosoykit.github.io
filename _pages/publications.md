@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h2>Pre-prints</h2>
+<h2>Preprints</h2>
 
 <p>18. <strong>Curtius K</strong>, Rubenstein JH, Chak A, Inadomi JM. (2020)<a href="https://www.biorxiv.org/content/10.1101/2020.05.14.096826v1.abstract" target="_blank"> Barrett's esophagus is the precursor of all esophageal adenocarcinomas.</a>  bioRxiv doi:10.1101/2020.05.14.096826 
 <p>17. <strong>Curtius K*</strong>, Kabir M*, Al Bakir I, Choi CHR, Hartono J, et al. (2020) <a href="https://www.medrxiv.org/content/10.1101/2020.04.10.20057869v1" target="_blank"> Multi-centre derivation and validation of a colitis-associated colorectal cancer risk prediction web-tool.</a>  medRxiv doi: 10.1101/2020.04.10.20057869 *joint first authors 
