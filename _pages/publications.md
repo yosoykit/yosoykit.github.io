@@ -10,7 +10,7 @@ author_profile: true
 <p>18. <strong>Curtius K</strong>, Rubenstein JH, Chak A, Inadomi JM. (2020)<a href="https://www.biorxiv.org/content/10.1101/2020.05.14.096826v1.abstract" target="_blank"> Barrett's esophagus is the precursor of all esophageal adenocarcinomas.</a>  bioRxiv doi:10.1101/2020.05.14.096826 
 <p>17. <strong>Curtius K*</strong>, Kabir M*, Al Bakir I, Choi CHR, Hartono J, et al. (2020) <a href="https://www.medrxiv.org/content/10.1101/2020.04.10.20057869v1" target="_blank"> Multi-centre derivation and validation of a colitis-associated colorectal cancer risk prediction web-tool.</a>  medRxiv doi: 10.1101/2020.04.10.20057869 *joint first authors 
 </p><p>16. <strong>Curtius K</strong>, Dewanji A, Hazelton WD, Rubenstein JH, Luebeck EG. (2020) <a href="https://www.biorxiv.org/content/10.1101/2020.02.11.927475v1" target="_blank">Optimal timing for cancer screening and adaptive surveillance using mathematical modeling.</a> bioRxiv doi:10.1101/2020.02.11.927475.
-</p><p>15. Tamura N, Shaikh N, Muliaditan D, McGuinness J, Moralli D,et al. (2019) <a href="https://www.biorxiv.org/content/10.1101/727537v1?rss=1" target="_blank">Mechanisms of Chromosomal Instability in High-grade Serous Ovarian Carcinoma.</a> bioRxiv 727537; doi: 10.1101/727537</p>
+</p><p>15. Tamura N, Shaikh N, Muliaditan D, McGuinness J, Moralli D,et al. (2019) <a href="https://www.biorxiv.org/content/10.1101/727537v1?rss=1" target="_blank">Mechanisms of Chromosomal Instability in High-grade Serous Ovarian Carcinoma.</a> bioRxiv doi: 10.1101/727537</p>
 
 
 <h2>Peer-reviewed articles</h2>
@@ -29,6 +29,6 @@ author_profile: true
 <p>3. Kong CY, Kroep S, <strong>Curtius K</strong>, Hazelton WD, Jeon J, et al. (2014) <a href="http://cebp.aacrjournals.org/content/23/6/997.long" target="_blank">Exploring the Recent Trend in Esophageal Adenocarcinoma Incidence and Mortality Using Comparative Simulation Modeling.</a> Cancer Epidemiol Biomarkers Prev 23(6):997-1006</p>
 <p>2. Luebeck EG, <strong>Curtius K</strong>, Jeon J, Hazelton WD (2013)  <a href="http://cancerres.aacrjournals.org/cgi/pmidlookup?view=long&amp;pmid=23054397" target="_blank">Impact of Tumor Progression on Cancer Incidence Curves.</a> Cancer Res Feb 1;73(3):1086-96</p>
 
-## Book chapters
+<h2>Book chapters</h2>
 
 <p>1.  <strong>Curtius K</strong>, Wright NA, Graham TA. (2017) <a href="http://perspectivesinmedicine.cshlp.org/content/early/2017/05/09/cshperspect.a026542.abstract" target="_blank">Evolution of Premalignant Disease</a>. Cold Spring Harb Perspect Med. doi: 10.1101/cshperspect.a026542 </p>
