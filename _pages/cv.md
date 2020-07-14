@@ -7,5 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=http://qcclab.com/Curtiuscv_14July2020.pdf" width="500" height="375">
+[Download CV here](http:/yosoykit.github.io/_pages/Curtiuscv_14July2020.pdf)
