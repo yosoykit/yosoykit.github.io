@@ -32,3 +32,5 @@ author_profile: true
 <h2>Book chapters</h2>
 
 <p>1.  <strong>Curtius K</strong>, Wright NA, Graham TA. (2017) <a href="http://perspectivesinmedicine.cshlp.org/content/early/2017/05/09/cshperspect.a026542.abstract" target="_blank">Evolution of Premalignant Disease</a>. Cold Spring Harb Perspect Med. doi: 10.1101/cshperspect.a026542 </p>
+
+
