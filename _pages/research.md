@@ -10,7 +10,7 @@ author_profile: true
 
 
 <figure>
-  <a href="/images/QCC_moticvation_simple_14July2020.png">
-  <img src="/images/QCC_moticvation_simple_14July2020.png" alt = "motivation image" width="50%" />
+  <a href="/images/QCC_motivation_simple_14July2020.png">
+  <img src="/images/QCC_motivation_simple_14July2020.png" alt = "QCC motivating questions" width="50%" />
     </a>
 </figure>
