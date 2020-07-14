@@ -29,16 +29,4 @@ Peer-reviewed
 <p>3. <strong>Curtius K</strong>, Hazelton WD, Jeon J, Luebeck EG (2015) <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004272" target="_blank">A Multiscale Model Evaluates Screening for Neoplasia in Barrett’s Esophagus</a>. PLoS Comput Biol 11(5):e1004272. </p>
 <p>2. Kong CY, Kroep S, <strong>Curtius K</strong>, Hazelton WD, Jeon J, et al. (2014) <a href="http://cebp.aacrjournals.org/content/23/6/997.long" target="_blank">Exploring the Recent Trend in Esophageal Adenocarcinoma Incidence and Mortality Using Comparative Simulation Modeling.</a> Cancer Epidemiol Biomarkers Prev 23(6):997-1006</p>
 <p>1. Luebeck EG, <strong>Curtius K</strong>, Jeon J, Hazelton WD (2013)  <a href="http://cancerres.aacrjournals.org/cgi/pmidlookup?view=long&amp;pmid=23054397" target="_blank">Impact of Tumor Progression on Cancer Incidence Curves.</a> Cancer Res Feb 1;73(3):1086-96</p>
-</div>
-</div>
-</div>
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
