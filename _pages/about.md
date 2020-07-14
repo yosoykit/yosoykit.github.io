@@ -12,15 +12,16 @@ redirect_from:
 
 
 <figure>
-  <a href="/images/QCC_Logo_1.png">
-  <img src="/images/QCC_Logo_1.png" alt = "The QCC logo" width="50%" />
+  <a href="/images/main_logo_png.png">
+  <img src="/images/main_logo_png.png" alt = "Logo" width="50%" />
     </a>
 </figure>
+
 
 About
 ======
 
-Our research aim is to improve our ability to detect and ultimately prevent cancer at the earliest stages. To achieve this, our team develops ways to use quantitative reasoning to better understand the correlations between multi-scale data, ranging from cancer epidemiology to genomic analyses of patient tissues. Data measured currently is correlated due to the underlying process of somatic evolution, and mathematical equations can help answer questions of 'Who, When, How. Our work requires integration with inter-disciplinary fields (e.g., screening guideline committees, clinicians, geneticists, molecular and computational biologists) that are primed for novel quantitative analyses beyond those currently employed in clinical practice and decisions.
+Our research aim is to improve the ability to detect and ultimately prevent cancer at the earliest stages. To achieve this, our team develops ways to use quantitative reasoning to better understand the correlations between multi-scale data, ranging from cancer epidemiology to genomic analyses of patient tissues. Data measured currently is correlated due to the underlying process of somatic evolution, and mathematical equations can help answer questions of 'Who, When, How. Our work requires integration with inter-disciplinary fields (e.g., screening guideline committees, clinicians, geneticists, molecular and computational biologists) that are primed for novel quantitative analyses beyond those currently employed in clinical practice and decisions.
 
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
