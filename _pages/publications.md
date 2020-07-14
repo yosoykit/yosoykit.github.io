@@ -6,7 +6,6 @@ author_profile: true
 ---
 <div class="page" title="Page 2">
 <div class="layoutArea">
-<div class="column">
 <p>17. <strong>Curtius K*</strong>, Kabir M*, Al Bakir I, Choi CHR, Hartono J, et al. (2020) <a href="https://www.medrxiv.org/content/10.1101/2020.04.10.20057869v1" target="_blank"> Multi-centre derivation and validation of a colitis-associated colorectal cancer risk prediction web-tool.</a>  medRxiv doi: 10.1101/2020.04.10.20057869 *joint first authors 
 </p><p>16. <strong>Curtius K</strong>, Dewanji A, Hazelton WD, Rubenstein JH, Luebeck EG, (2020) <a href="https://www.biorxiv.org/content/10.1101/2020.02.11.927475v1" target="_blank">Optimal timing for cancer screening and adaptive surveillance using mathematical modeling.</a> bioRxiv doi:10.1101/2020.02.11.927475.
 </p><p>15. Saunderson EA, Baker AM, Williams M, <strong>Curtius K</strong>,  Jones JL, et al. (2020) <a href="https://academic.oup.com/nargab/article/2/1/lqz017/5678524" target="_blank">A novel method of single strand library preparation for whole genome sequencing of formalin-fixed paraffin-embedded tissue samples.</a> NAR Genom and Bioinform 2(1):lqz017
