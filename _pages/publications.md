@@ -4,9 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<div class="page" title="Page 2">
-<div class="layoutArea">
-<div class="column">
 
 Pre-prints
 ======
