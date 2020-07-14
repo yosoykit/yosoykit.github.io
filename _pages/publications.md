@@ -13,7 +13,7 @@ author_profile: true
 </p><p>15. Tamura N, Shaikh N, Muliaditan D, McGuinness J, Moralli D,et al. (2019) <a href="https://www.biorxiv.org/content/10.1101/727537v1?rss=1" target="_blank">Mechanisms of Chromosomal Instability in High-grade Serous Ovarian Carcinoma.</a> bioRxiv 727537; doi: 10.1101/727537</p>
 
 
-## Peer-reviewed articles
+<h2>Peer-reviewed articles</h2>
 
 <p>14. Saunderson EA, Baker AM, Williams M, <strong>Curtius K</strong>,  Jones JL, et al. (2020) <a href="https://academic.oup.com/nargab/article/2/1/lqz017/5678524" target="_blank">A novel method of single strand library preparation for whole genome sequencing of formalin-fixed paraffin-embedded tissue samples.</a> NAR Genom and Bioinform 2(1):lqz017
 </p><p>13.  Rockne R, Hawkins-Daarud A, Swanson K, Sluka J, Glazier J, et al. (2019)  <a href="https://iopscience.iop.org/article/10.1088/1478-3975/ab1a09/meta" target="_blank">The 2019 Mathematical Oncology Roadmap.</a> Phys Biol doi: 10.1088/1478-3975/ab1a09 
