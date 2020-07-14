@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quantitative Cancer Control Lab"
+title                    : "Quantitative Cancer Control"
 title_separator          : "-"
 name                     : &name "Kit Curtius, PI"
 description              : &description "Combining mathematical modeling and data science to improve cancer prevention"
