@@ -14,8 +14,8 @@ We are an inter-disciplinary team based at [UCSD Department of Medicine, Divisio
 
 
 <figure>
-  <a href="/images/Main_Logo.png">
-  <img src="/images/Main_Logo.png" alt = "Logo" width="50%" />
+  <a href="/images/main_logo_png.png">
+  <img src="/images/main_logo_png.png" alt = "Logo" width="50%" />
     </a>
 </figure>
 
