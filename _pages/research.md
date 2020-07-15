@@ -21,16 +21,16 @@ We leverage these inherent connections by using mechanistic models and bioinform
 
 ![logo-right](/images/QCC_motivation_simple_14July2020.png){: .align-right}
 
-The following are some examples of our research in GI cancer control:
+The following are some examples of our collaborative research in GI cancer control:
 
-<h2>"What" are the premalignant alterations that are predictive of future cancers? </h2>
+<h2> * "What" are the premalignant alterations that are predictive of future cancers? </h2>
 <h3>Methods: </h3>
   Genome sequencing, bioinformatics, phylogenetics, biostatistics, predictive modeling
 <h3>Reference links with applications: </h3>
-1. Copy number alterations precede cancers in inflammatory bowel disease
+1. [Copy number alterations precede cancers in inflammatory bowel disease](https://gut.bmj.com/content/68/6/985.abstract)
 2. Efficacy of screening modalities for detecting high-risk dysplasia in Barrett's esophagus
 
-<h2>"When" are patients most at risk of premalignancy and would benefit from screening? </h2>
+<h2>* "When" are patients most at risk of premalignancy and would benefit from screening? </h2>
 <h3>Methods: </h3>
   Mechanistic modeling, stochastic modeling, Bayesian inference of biological aging, cost-effectiveness analyses
 <h3>Reference links with applications: </h3>
@@ -39,9 +39,15 @@ The following are some examples of our research in GI cancer control:
 3. Estimating timescales of (pre)malignant growth from incidence curves
 
 
-<h2>"Who" should we refer for screening and then who requires further interventions? </h2>
+<h2>* "Who" should we refer for screening and then who requires further interventions? </h2>
 <h3>Methods: </h3>
   Risk stratification, translational bioinformatics, clinical decision support tools
 <h3>Reference links with applications: </h3>
 1. UC-CaRE: a validated colitis-associated colorectal cancer risk prediction web-tool 
 2. Modeling suggests Barrett's esopohagus patients constitute most esophageal adenocarcinomas
+
+
+For further reading about our research, please see our section on "Cancer screening and early detection with modeling" as part of the 2019 Mathematical Oncology Roadmap.
+
+
+
