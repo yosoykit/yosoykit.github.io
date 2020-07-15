@@ -39,7 +39,7 @@ The following are some examples of our collaborative research in GI cancer contr
 3. [Estimating timescales of (pre)malignant growth from incidence curves](http://cancerres.aacrjournals.org/cgi/pmidlookup?view=long&amp;pmid=23054397)
 
 
-<h2> <em>Who</em>em> should we refer for screening and who then requires further interventions?  </h2>
+<h2> <em>Who</em> should we refer for screening and who then requires further interventions?  </h2>
 <h3>Methods: </h3>
   Risk stratification, translational bioinformatics, evolutionary biomarkers, clinical decision support tools
 <h3>Reference links with applications: </h3>
