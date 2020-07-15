@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Welcome to the QCC lab! "
-excerpt: "Welcome to the QCC lab! "
+title: "Welcome to the QCC lab "
+excerpt: "Welcome to the QCC lab "
 author_profile: true
 redirect_from: 
   - /about/
