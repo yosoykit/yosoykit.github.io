@@ -14,10 +14,11 @@ author_profile: true
 
 In July 2020, I started as an Assistant Professor at UCSD in the Division for Biomedical Informatics, Department of Medicine. I am also an Associate Member of the Cancer Control Program at UCSD Moores Cancer Center. Previous to this, I held a Medical Research Council Rutherford Fellowship at Barts Cancer Institute in London UK, where I began as a postdoc in Prof Trevor Graham’s Evolution and Cancer lab in 2016. I was a Gastroenterology Research Fellow in the University of Washington Department of Medicine working with Dr. John Inadomi before moving to the UK. I received my PhD in Applied Mathematics from UW in 2015, working with advisor Dr. Georg Luebeck at the Fred Hutchinson Cancer Research Center, and obtained a BS in Mathematics from UCLA in 2010. 
 
+<h2>Openings</h2>
+
+ Please contact me by email if you are a PhD student in the UCSD Bioinformatics & Systems Biology program who is interested in doing a research rotation, or if you are (or are soon to be) a doctoral graduate (PhD and/or MD) who is interested in applying to an open postdoctoral position on our team. I am happy to discuss available opportunities and potential projects, and to answer questions. 
 
 <h2>Contact</h2>
-
-I am looking to grow this group! Please contact me if you are a PhD student in the UCSD Bioinformatics & Systems Biology program interested in doing a research rotation, or if you are interested in applying to an open postdoctoral position on our team. I am happy to discuss available opportunities and answer questions. 
 
 Email: kcurtius@health.ucsd.edu
 
