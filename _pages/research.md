@@ -32,7 +32,7 @@ The following are some examples of our collaborative research in GI cancer contr
 
 <h2> <em>When</em> are patients most at risk of premalignancy and would benefit from screening? </h2>
 <h3>Methods: </h3>
-  Mechanistic modeling, stochastic modeling, Bayesian inference of biological aging, cost-effectiveness analyses
+  Mechanistic modeling, stochastic processes, Bayesian inference of biological aging, cost-effectiveness analyses
 <h3>Reference links with applications: </h3>
 1. [Patient-specific molecular clocks for Barrett's esophagus onset ages](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004919)
 2. [Optimal timing of screening and adaptive surveillance](https://www.biorxiv.org/content/10.1101/2020.02.11.927475v1)
