@@ -17,7 +17,7 @@ In July 2020, I started as an Assistant Professor at UCSD in the Division for Bi
 
 <h2>Contact</h2>
 
-I am looking to grow this group! Please contact me if you are a PhD student in the UCSD Bioinformatics & Systems Biology program interested in doing a Fall research rotation, or if you are interested in applying to an open postdoctoral position on our team. I am happy to discuss available opportunities and answer questions. 
+I am looking to grow this group! Please contact me if you are a PhD student in the UCSD Bioinformatics & Systems Biology program interested in doing a research rotation, or if you are interested in applying to an open postdoctoral position on our team. I am happy to discuss available opportunities and answer questions. 
 
 Email: kcurtius@health.ucsd.edu
 
