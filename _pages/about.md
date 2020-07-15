@@ -13,8 +13,8 @@ redirect_from:
 We are an inter-disciplinary team based at [UCSD Department of Medicine, Division of Biomedical Informatics](https://medschool.ucsd.edu/som/dbmi/pages/default.aspx) and [UCSD Moores Cancer Center](https://medschool.ucsd.edu/research/moores/Pages/default.aspx). 
 
 <figure>
-  <a href="/images/main_logo_png.png">
-  <img src="/images/main_logo_png.png" alt = "Logo"  />
+  <a href="/images/Main_logo_small.png">
+  <img src="/images/Main_logo_small.png" alt = "Logo"  />
     </a>
 </figure>
 
