@@ -16,7 +16,7 @@ Q2: How do we translate predicted cancer risk to patients effectively?
 
 These two questions have traditionally been examined in isolation from one another. However, molecular and population data available are inextricably linked - the underlying dynamic process of cancer evolution manifests in the human body and measurements may be naturally reflected in incidence or in collected patient snapshots based on the timing of clinical recommmendations/study design, and interventions in practice.
 
-We leverage these inherent connections by using mechanistic models, machine learning, and bioinformatics methods to integrate epidemiological, clinico-pathological and molecular cancer data in order to test and validate hypotheses. With a current focus on gastrointestinal cancers, we seek a coherent understanding of the carcinogenesis process so we may find and identify dangerous precursors in patients and forecast outcomes reliably.
+We leverage these inherent connections by using mechanistic models, machine learning, and bioinformatics methods to integrate epidemiological, clinico-pathological and molecular cancer data in order to test and validate hypotheses. With a current focus on gastrointestinal cancers, we seek a coherent understanding of the carcinogenesis process so we may find and identify dangerous precursors (or diverse hotbeds of clones) in patients and forecast outcomes reliably.
 
 
 ![logo-right](/images/QCC_motivation_simple_14July2020.png){: .align-right}
