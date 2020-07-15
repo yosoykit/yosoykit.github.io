@@ -23,14 +23,14 @@ We leverage these inherent connections by using mechanistic models, machine lear
 
 The following are some examples of our collaborative research in GI cancer control:
 
-*<h2>What</h2>* <h2>are the premalignant alterations that are predictive of future cancers? </h2>
+<h2> <em>What</em> are the premalignant alterations that are predictive of future cancers? </h2>
 ### Methods: 
   Genome sequencing, bioinformatics, phylogenetics, biostatistics, predictive modeling, longitudinal data analysis
 <h3>Reference links with applications: </h3>
 1. [Copy number alterations precede cancers in inflammatory bowel disease](https://gut.bmj.com/content/68/6/985.abstract)
 2. [Efficacy of screening modalities for detecting high-risk dysplasia in Barrett's esophagus](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004272)
 
-## *When* are patients most at risk of premalignancy and would benefit from screening?
+<h2> <em>When</em> are patients most at risk of premalignancy and would benefit from screening? </h2>
 <h3>Methods: </h3>
   Mechanistic modeling, stochastic modeling, Bayesian inference of biological aging, cost-effectiveness analyses
 <h3>Reference links with applications: </h3>
@@ -39,7 +39,7 @@ The following are some examples of our collaborative research in GI cancer contr
 3. [Estimating timescales of (pre)malignant growth from incidence curves](http://cancerres.aacrjournals.org/cgi/pmidlookup?view=long&amp;pmid=23054397)
 
 
-## *Who* should we refer for screening and who then requires further interventions? 
+<h2> <em>Who</em>em> should we refer for screening and who then requires further interventions?  </h2>
 <h3>Methods: </h3>
   Risk stratification, translational bioinformatics, evolutionary biomarkers, clinical decision support tools
 <h3>Reference links with applications: </h3>
