@@ -17,6 +17,11 @@ We are an inter-disciplinary team based at [UCSD Department of Medicine, Divisio
   <img src="/images/Main_Logo_2_small.png" alt = "Logo"  />
     </a>
 </figure>
+<figure>
+  <a href="/images/Main_Logo_2.png">
+  <img src="/images/Main_Logo_2.png" alt = "Logo"  />
+    </a>
+</figure>
 
 Our research aim is to improve the ability to detect and prevent cancer at the earliest stages. 
 To achieve this, our team develops ways to use mathematical reasoning to better understand the correlations between multi-scale cancer data, ranging from epidemiology to genomics, that arise from the underlying process of somatic evolution. 
