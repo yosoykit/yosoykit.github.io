@@ -30,7 +30,7 @@ The following are some examples of our collaborative research in GI cancer contr
 1. [Copy number alterations precede cancers in inflammatory bowel disease](https://gut.bmj.com/content/68/6/985.abstract)
 2. [Efficacy of screening modalities for detecting high-risk dysplasia in Barrett's esophagus](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004272)
 
- <h2> "When" are patients most at risk of premalignancy and would benefit from screening? </h2>
+## *When* are patients most at risk of premalignancy and would benefit from screening?
 <h3>Methods: </h3>
   Mechanistic modeling, stochastic modeling, Bayesian inference of biological aging, cost-effectiveness analyses
 <h3>Reference links with applications: </h3>
@@ -39,7 +39,7 @@ The following are some examples of our collaborative research in GI cancer contr
 3. [Estimating timescales of (pre)malignant growth from incidence curves](http://cancerres.aacrjournals.org/cgi/pmidlookup?view=long&amp;pmid=23054397)
 
 
-* <h2>"Who" should we refer for screening and then who requires further interventions? </h2>
+## *Who* should we refer for screening and who then requires further interventions? 
 <h3>Methods: </h3>
   Risk stratification, translational bioinformatics, evolutionary biomarkers, clinical decision support tools
 <h3>Reference links with applications: </h3>
