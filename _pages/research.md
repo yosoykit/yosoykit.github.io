@@ -9,7 +9,9 @@ author_profile: true
 {% include base_path %}
 
 Our research focuses on two overall questions:
+
 Q1: How do normal, healthy cells evolve to become cancer cells?
+
 Q2: How do we translate predicted cancer risk to patients' care effectively?
 
 The work focusing on these two questions has traditionally been conducted in isolation from one another. However, molecular and population data available are inextricably linked - the underlying process of cancer evolution manifests in the human body and measurements may be naturally reflected in incidence or in collected patient snapshots based on the timing of clinical recommmendations and interventions in practice.
@@ -21,6 +23,8 @@ We leverage these inherent connections by using mechanistic models and bioinform
   <img src="/images/QCC_motivation_simple_14July2020.png" alt = "QCC motivating questions" width="50%" />
     </a>
 </figure>
+
+![logo-right](/images/QCC_motivation_simple_14July2020.png){: .align-right}
 
 The following are some examples of our research questions in GI cancer control:
 
