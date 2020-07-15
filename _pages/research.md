@@ -18,11 +18,6 @@ The work focusing on these two questions has traditionally been conducted in iso
 
 We leverage these inherent connections by using mechanistic models and bioinformatics methods to integrate both epidemiological and molecular cancer data in order to test and validate hypotheses. With a current focus on gastrointestinal cancers, we seek a coherent understanding of the carcinogenesis process so we may find and identify dangerous precursors in patients and predict outcomes reliably in order to choose appropriate interventions.
 
-<figure>
-  <a href="/images/QCC_motivation_simple_14July2020.png">
-  <img src="/images/QCC_motivation_simple_14July2020.png" alt = "QCC motivating questions" width="50%" />
-    </a>
-</figure>
 
 ![logo-right](/images/QCC_motivation_simple_14July2020.png){: .align-right}
 
