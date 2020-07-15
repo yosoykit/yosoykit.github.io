@@ -24,7 +24,7 @@ We leverage these inherent connections by using mechanistic models, machine lear
 The following are some examples of our collaborative research in GI cancer control:
 
 <h2> <em>What</em> are the premalignant alterations that are predictive of future cancers? </h2>
-### Methods: 
+<h3>Methods: </h3> 
   Genome sequencing, bioinformatics, phylogenetics, biostatistics, predictive modeling, longitudinal data analysis
 <h3>Reference links with applications: </h3>
 1. [Copy number alterations precede cancers in inflammatory bowel disease](https://gut.bmj.com/content/68/6/985.abstract)
