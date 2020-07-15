@@ -26,15 +26,15 @@ The following are some examples of our research in GI cancer control:
 <h2>"What" are the premalignant alterations that are predictive of future cancers? </h2>
 <h3>Methods: </h3>
   Genome sequencing, bioinformatics, phylogenetics, biostatistics, predictive modeling
-<h3>References with applications: </h3>
+<h3>Reference links with applications: </h3>
 1. Copy number alterations precede cancers in inflammatory bowel disease
 2. Efficacy of screening modalities for detecting high-risk dysplasia in Barrett's esophagus
 
 <h2>"When" are patients most at risk of premalignancy and would benefit from screening? </h2>
 <h3>Methods: </h3>
   Mechanistic modeling, stochastic modeling, Bayesian inference of biological aging, cost-effectiveness analyses
-<h3>References with applications: </h3>
-1. Patient-specifci molecular clocks for Barrett's esophagus onset ages
+<h3>Reference links with applications: </h3>
+1. Patient-specific molecular clocks for Barrett's esophagus onset ages
 2. Optimal timing of screening and adapative surveillance 
 3. Estimating timescales of (pre)malignant growth from incidence curves
 
@@ -42,6 +42,6 @@ The following are some examples of our research in GI cancer control:
 <h2>"Who" should we refer for screening and then who requires further interventions? </h2>
 <h3>Methods: </h3>
   Risk stratification, translational bioinformatics, clinical decision support tools
-<h3>References with applications: </h3>
-1. UC-CaRE: a validated colitis-assocaited colorectal cancer risk prediction web-tool 
-2. Modeling suggest Barrett's esopohagus patients constitute most esophageal adenocarcinomas
+<h3>Reference links with applications: </h3>
+1. UC-CaRE: a validated colitis-associated colorectal cancer risk prediction web-tool 
+2. Modeling suggests Barrett's esopohagus patients constitute most esophageal adenocarcinomas
