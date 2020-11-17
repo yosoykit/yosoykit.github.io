@@ -7,13 +7,14 @@ author_profile: true
 
 <h2>Preprints</h2>
 
-<p>18. <strong>Curtius K</strong>, Rubenstein JH, Chak A, Inadomi JM. (2020)<a href="https://www.biorxiv.org/content/10.1101/2020.05.14.096826v1.abstract" target="_blank"> Barrett's esophagus is the precursor of all esophageal adenocarcinomas.</a>  bioRxiv doi:10.1101/2020.05.14.096826 
-<p>17. <strong>Curtius K*</strong>, Kabir M*, Al Bakir I, Choi CHR, Hartono J, et al. (2020) <a href="https://www.medrxiv.org/content/10.1101/2020.04.10.20057869v1" target="_blank"> Multi-centre derivation and validation of a colitis-associated colorectal cancer risk prediction web-tool.</a>  medRxiv doi: 10.1101/2020.04.10.20057869 *joint first authors 
-</p><p>16. <strong>Curtius K</strong>, Dewanji A, Hazelton WD, Rubenstein JH, Luebeck EG. (2020) <a href="https://www.biorxiv.org/content/10.1101/2020.02.11.927475v1" target="_blank">Optimal timing for cancer screening and adaptive surveillance using mathematical modeling.</a> bioRxiv doi:10.1101/2020.02.11.927475.
-</p><p>15. Tamura N, Shaikh N, Muliaditan D, McGuinness J, Moralli D,et al. (2019) <a href="https://www.biorxiv.org/content/10.1101/727537v1?rss=1" target="_blank">Mechanisms of Chromosomal Instability in High-grade Serous Ovarian Carcinoma.</a> bioRxiv doi: 10.1101/727537</p>
+<p>18. <strong>Curtius K</strong>, Rubenstein JH, Chak A, Inadomi JM. (2020)<a href="https://www.biorxiv.org/content/10.1101/2020.05.14.096826v1.abstract" target="_blank"> Computational modelling suggests that Barrett's esophagus may be the precursor of all esophageal oadenocarcinomas.</a>  bioRxiv doi:10.1101/2020.05.14.096826 (in press, Gut)
+<p>17. <strong>Curtius K*</strong>, Kabir M*, Al Bakir I, Choi CHR, Hartono J, et al. (2020) <a href="https://www.medrxiv.org/content/10.1101/2020.04.10.20057869v1" target="_blank"> Multi-centre derivation and validation of a colitis-associated colorectal cancer risk prediction web-tool.</a>  medRxiv doi: 10.1101/2020.04.10.20057869 *joint first authors (under review)
+</p><p>16. <strong>Curtius K</strong>, Dewanji A, Hazelton WD, Rubenstein JH, Luebeck EG. (2020) <a href="https://www.biorxiv.org/content/10.1101/2020.02.11.927475v1" target="_blank">Optimal timing for cancer screening and adaptive surveillance using mathematical modeling.</a> bioRxiv doi:10.1101/2020.02.11.927475. (pending acceptance, Cancer Res)
 
 
 <h2>Peer-reviewed articles</h2>
+
+</p><p>15. Tamura N, Shaikh N, Muliaditan D, McGuinness J, Moralli D,et al. (2020) <a href="https://www.biorxiv.org/content/10.1101/727537v1?rss=1" target="_blank">Mechanisms of Chromosomal Instability in High-grade Serous Ovarian Carcinoma.</a> Cancer Res 80(20):4946-59</p>
 
 <p>14. Saunderson EA, Baker AM, Williams M, <strong>Curtius K</strong>,  Jones JL, et al. (2020) <a href="https://academic.oup.com/nargab/article/2/1/lqz017/5678524" target="_blank">A novel method of single strand library preparation for whole genome sequencing of formalin-fixed paraffin-embedded tissue samples.</a> NAR Genom and Bioinform 2(1):lqz017
 </p><p>13.  Rockne R, Hawkins-Daarud A, Swanson K, Sluka J, Glazier J, et al. (2019)  <a href="https://iopscience.iop.org/article/10.1088/1478-3975/ab1a09/meta" target="_blank">The 2019 Mathematical Oncology Roadmap.</a> Phys Biol doi: 10.1088/1478-3975/ab1a09 
