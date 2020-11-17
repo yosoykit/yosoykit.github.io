@@ -16,9 +16,9 @@ In July 2020, I started as an Assistant Professor at UCSD in the Division for Bi
 
 <h2>Lab members</h2>
 
-<div style="width:100px">
+
 ![mckenna](/images/MckennaLewis.png){: .align-left}
-</div>
+<img src="/images/MckennaLewis.png" height="50%">
 <h3>Mckenna Lewis (undergraduate researcher)</h3>
 McKenna is a computer science major and student athlete from the Central Valley. She is on the NCAA cross country and track team at UCSD, and also tutors in the CSE department. She is interested in computational bioinformatics research.
 
