@@ -17,6 +17,7 @@ In July 2020, I started as an Assistant Professor at UCSD in the Division for Bi
 <h3>Contact</h3>
 
 Email: kcurtius@health.ucsd.edu
+
 Address: Division of Biomedical Informatics, 9500 Gilman Drive, La Jolla, CA 92093
 
 <h2>Lab members</h2>
