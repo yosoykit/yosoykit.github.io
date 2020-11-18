@@ -29,6 +29,10 @@ McKenna is a computer science major and student athlete from the Central Valley.
 
 
 
+
+
+
+
 <h2>Openings</h2>
 
  Please contact me by email if you are a PhD student in the UCSD Bioinformatics & Systems Biology program who is interested in doing a research rotation, or if you are (or are soon to be) a doctoral graduate (PhD and/or MD) who is interested in applying to an open postdoctoral position on our team. I am happy to discuss available opportunities and potential projects, and to answer questions. 
