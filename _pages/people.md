@@ -26,16 +26,16 @@ Address: Division of Biomedical Informatics, 9500 Gilman Drive, La Jolla, CA 920
 <h3>Mckenna Lewis (undergraduate researcher)</h3>
 McKenna is a computer science major and student athlete from the Central Valley. She is on the NCAA cross country and track team at UCSD, and also tutors in the CSE department. She is interested in computational bioinformatics research.
 
+ 
+ 
+ 
+ 
+ 
 
-
-
-
-
-
-
+ 
 <h2>Openings</h2>
 
- Please contact me by email if you are a PhD student in the UCSD Bioinformatics & Systems Biology program who is interested in doing a research rotation, or if you are (or are soon to be) a doctoral graduate (PhD and/or MD) who is interested in applying to an open postdoctoral position on our team. I am happy to discuss available opportunities and potential projects, and to answer questions. 
+ Please contact Dr. Curtius by email if you are a PhD student in the UCSD Bioinformatics & Systems Biology program who is interested in doing a research rotation, or if you are (or are soon to be) a doctoral graduate (PhD and/or MD) who is interested in applying to an open postdoctoral position on our team. I am happy to discuss available opportunities and potential projects, and to answer questions. 
 
 
 
