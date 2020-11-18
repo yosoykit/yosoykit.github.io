@@ -32,6 +32,8 @@ McKenna is a computer science major and student athlete from the Central Valley.
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
  
 <h2>Openings</h2>
 
