@@ -23,7 +23,7 @@ Address: Division of Biomedical Informatics, 9500 Gilman Drive, La Jolla, CA 920
 <h2>Lab members</h2>
 
 ![mckenna](/images/MckennaLewis.png){: .align-left}
-<h3>Mckenna Lewis (undergraduate researcher)</h3>
+<h3>McKenna Lewis (undergraduate researcher)</h3>
 McKenna is a computer science major and student athlete from the Central Valley. She is on the NCAA cross country and track team at UCSD, and also tutors in the CSE department. She is interested in computational bioinformatics research.
 
  
