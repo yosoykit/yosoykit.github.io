@@ -11,7 +11,7 @@ author_profile: true
 
 <h2>Peer-reviewed articles</h2>
 </p><p>19. <strong>Curtius K</strong>, Kabir M*, Al Bakir I, Choi CHR, Hartono J, et al. (2021) <a href="https://www.medrxiv.org/content/10.1101/2020.04.10.20057869v1" target="_blank"> Multi-centre derivation and validation of a colitis-associated colorectal cancer risk prediction web-tool.</a> Gut (in press) *joint first authors 
-</p><p>18. Luebeck GE, Vaughan TL, <strong>Curtius K</strong>, Hazelton WD.(2021) Modeling historic incidence trends implies early field cancerization in esophageal squamous cell carcinoma. PLoS Comput Biol (in press)
+</p><p>18. Luebeck GE, Vaughan TL, <strong>Curtius K</strong>, Hazelton WD. (2021) Modeling historic incidence trends implies early field cancerization in esophageal squamous cell carcinoma. PLoS Comput Biol (in press)
 </p><p>17. <strong>Curtius K</strong>, Dewanji A, Hazelton WD, Rubenstein JH, Luebeck EG. (2021) <a href="https://cancerres.aacrjournals.org/content/81/4/1123.short" target="_blank">Optimal timing for cancer screening and adaptive surveillance using mathematical modeling.</a> Cancer Res 81(4):1123-1134 
 <p>16. <strong>Curtius K</strong>, Rubenstein JH, Chak A, Inadomi JM. (2020) <a href="https://gut.bmj.com/content/early/2020/11/24/gutjnl-2020-321598.long" target="_blank"> Computational modelling suggests that Barrett's oesophagus may be the precursor of all oesophageal adenocarcinomas.</a> Gut, Epub ahead of print doi:10.1136/gutjnl-2020-321598
 </p><p>15. Tamura N, Shaikh N, Muliaditan D, McGuinness J, Moralli D, et al. (2020) <a href="https://cancerres.aacrjournals.org/content/80/22/4946.long" target="_blank">Mechanisms of Chromosomal Instability in High-grade Serous Ovarian Carcinoma.</a> Cancer Res 80(20):4946-59</p>
