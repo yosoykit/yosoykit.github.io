@@ -30,7 +30,7 @@ Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (
 
 &nbsp;
 
-<h3>Undergraduate sesearchers</h3>
+<h3>Undergraduate researchers</h3>
 
  ![mckenna](/images/MckennaLewis.png){: .align-left}
  <h3>McKenna Lewis</h3>
