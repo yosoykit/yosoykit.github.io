@@ -37,6 +37,8 @@ Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (
  McKenna is a computer science major and student athlete from the Central Valley. She is on the NCAA cross country and track team at UCSD, and also tutors in the CSE department. She is interested in computational bioinformatics research.
  
  &nbsp;
+ 
+&nbsp;
 
  <h3>Research Interns</h3>
 
@@ -47,7 +49,6 @@ Phillip is a recent graduate of University of Houston with degrees in Biology an
 &nbsp; 
 
 &emsp;
-
 
 <h2>Openings</h2>
 
