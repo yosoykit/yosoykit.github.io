@@ -24,7 +24,7 @@ Address: Division of Biomedical Informatics, 9500 Gilman Drive, La Jolla, CA 920
 
 <h3>Graduate students</h3>
 
-![caitlin](/images/CaitlinGuccione.jpg){: .align-left}
+![caitlin](/images/CaitlinGuccione_small.jpg){: .align-left}
 <h3>Catilin Guccione</h3>
 Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (BISB) program co-advised by Dr. Kit Curtius and Dr. Rob Knight. She graduated from the University of Rhode Island in 2020 with an undergraduate degree in applied mathematics and computer science along with a Masters in applied mathematics. Her current research is focused in the intersection between the human microbiome and cancer. In her free time she enjoys surfing and open water swimming.
 
@@ -36,7 +36,7 @@ Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (
  
  <h3>Research Interns</h3>
 
-![phillip](){:.align-left}
+![phillip](lab_photo_placeholder.png){:.align-left}
 <h3>Phillip Pham</h3>
 Phillip is a recent graduate of University of Houston with degrees in Biology and Psychology. He is part of the STARS program and DBMI Summer Internship Program.
 
