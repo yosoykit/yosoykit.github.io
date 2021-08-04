@@ -27,15 +27,17 @@ Address: Division of Biomedical Informatics, 9500 Gilman Drive, La Jolla, CA 920
 ![caitlin](/images/CaitlinGuccione_small.png){: .align-left}
 <h3>Catilin Guccione</h3>
 Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (BISB) program co-advised by Dr. Kit Curtius and Dr. Rob Knight. She graduated from the University of Rhode Island in 2020 with an undergraduate degree in applied mathematics and computer science along with a Masters in applied mathematics. Her current research is focused in the intersection between the human microbiome and cancer. In her free time she enjoys surfing and open water swimming.
+
 &nbsp;
-&nbsp;
+
 <h3>Undergraduate researchers</h3>
 
  ![mckenna](/images/MckennaLewis.png){: .align-left}
  <h3>McKenna Lewis</h3>
  McKenna is a computer science major and student athlete from the Central Valley. She is on the NCAA cross country and track team at UCSD, and also tutors in the CSE department. She is interested in computational bioinformatics research.
+ 
  &nbsp;
- &nbsp;
+
  <h3>Research Interns</h3>
 
 ![phillip](/images/Lab_photo_placeholder.png){:.align-left}
