@@ -40,6 +40,8 @@ Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (
  
 &nbsp;
 
+&nbsp;
+
  <h3>Research Interns</h3>
 
 ![phillip](/images/Lab_photo_placeholder.png){:.align-left}
