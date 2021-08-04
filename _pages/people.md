@@ -26,7 +26,7 @@ Address: Division of Biomedical Informatics, 9500 Gilman Drive, La Jolla, CA 920
 
 ![caitlin](/images/CaitlinGuccione_small.png){: .align-left}
 <h3>Caitlin Guccione</h3>
-Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (BISB) program co-advised by Dr. Kit Curtius and Dr. Rob Knight. She graduated from the University of Rhode Island in 2020 with an undergraduate degree in applied mathematics and computer science along with a Masters in applied mathematics. Her current research is focused in the intersection between the human microbiome and cancer. In her free time she enjoys surfing and open water swimming.
+Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (BISB) program co-advised by Dr. Kit Curtius and Dr. Rob Knight. She graduated from the University of Rhode Island in 2020 with an undergraduate degree in applied mathematics and computer science along with a Masters in applied mathematics. Her current research is focused in the intersection between the human microbiome and cancer. In her free time she enjoys surfing and open water swimming. Email contact: cguccion@ucsd.edu
 
 &nbsp;
 
