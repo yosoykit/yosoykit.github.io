@@ -36,7 +36,7 @@ Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (
  
  <h3>Research Interns</h3>
 
-![phillip](Lab_photo_placeholder.png){:.align-left}
+![phillip](/images/Lab_photo_placeholder.png){:.align-left}
 <h3>Phillip Pham</h3>
 Phillip is a recent graduate of University of Houston with degrees in Biology and Psychology. He is part of the STARS program and DBMI Summer Internship Program.
 
