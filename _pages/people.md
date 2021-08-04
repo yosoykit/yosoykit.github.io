@@ -22,11 +22,22 @@ Address: Division of Biomedical Informatics, 9500 Gilman Drive, La Jolla, CA 920
 
 <h2>Lab members</h2>
 
-![mckenna](/images/MckennaLewis.png){: .align-left}
-<h3>McKenna Lewis (undergraduate researcher)</h3>
-McKenna is a computer science major and student athlete from the Central Valley. She is on the NCAA cross country and track team at UCSD, and also tutors in the CSE department. She is interested in computational bioinformatics research.
+<h3>Graduate students</h3>
 
+![caitlin](/images/Caitlin_Guccione_pic.jpeg){: .align-left}
+<h3>Catilin Guccione</h3>
+Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (BISB) program co-advised by Dr. Kit Curtius and Dr. Rob Knight. She graduated from the University of Rhode Island in 2020 with an undergraduate degree in applied mathematics and computer science along with a Masters in applied mathematics. Her current research is focused in the intersection between the human microbiome and cancer. In her free time she enjoys surfing and open water swimming.
+
+<h3>Undergraduate researchers</h3>
+
+ ![mckenna](/images/MckennaLewis.png){: .align-left}
+ <h3>McKenna Lewis</h3>
+ McKenna is a computer science major and student athlete from the Central Valley. She is on the NCAA cross country and track team at UCSD, and also tutors in the CSE department. She is interested in computational bioinformatics research.
  
+ <h3>Research Interns</h3>
+
+<h3>Phillip Pham</h3>
+Phillip is a recent graduate of University of Houston with degrees in Biology and Psychology. He is part of the STARS program and DBMI Summer Internship Program.
 
 &nbsp; 
 
