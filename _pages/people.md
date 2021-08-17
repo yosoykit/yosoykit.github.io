@@ -45,7 +45,7 @@ Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (
 
 ![phillip](/images/Lab_photo_placeholder.png){:.align-left}
 <h3>Phillip Pham</h3>
-Phillip is a recent graduate of University of Houston with degrees in Biology and Psychology. He is part of the STARS program and DBMI Summer Internship Program.
+Phillip is a student at the University of Houston majoring in Biochemistry and Psychology. He is part of the STARS program and DBMI Summer Internship Program. His research project, through the lens of computational biology, focuses on the interactions between inflammatory bowel disease, whole genome doubling, and its potential link to colorectal carcinoma. During the past year, Phillip tried learning magic tricks but always got exposed, taking half the fun away. His real hobbies include cooking tikka masala, casually playing tennis, and traveling.
 
 &nbsp; 
 
