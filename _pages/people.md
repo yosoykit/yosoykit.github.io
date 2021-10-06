@@ -36,6 +36,12 @@ Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (
  <h3>McKenna Lewis</h3>
  McKenna is a computer science major and student athlete from the Central Valley. She is on the NCAA cross country and track team at UCSD, and also tutors in the CSE department. She is interested in computational bioinformatics research.
  
+ &nbsp;
+ 
+ &nbsp;
+ 
+ &nbsp;
+
  <h3>PhD Rotation students</h3>
 
  ![mckenna](/images/JA_headshot.png){: .align-left}
