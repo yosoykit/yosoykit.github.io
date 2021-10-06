@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-italicized = QCC lab trainee
+<i>italicized name</i>= QCC lab trainee
 <h2>Preprints</h2>
 
 <p>22.  Talwar J, Laub D, Pagadala M, Castro A, <i>Lewis M</i>,..., <strong>Curtius K</strong>, Zanetti M, Carter H. (2021) <a href="https://www.biorxiv.org/content/10.1101/2021.08.12.456166v1.abstract" target="_blank"> Autoimmune Alleles at the Major Histocompatibility Locus Modify Melanoma Susceptibility. </a> bioRxiv doi: 10.1101/2021.08.12.456166
