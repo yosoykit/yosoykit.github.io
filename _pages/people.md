@@ -36,6 +36,12 @@ Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (
  <h3>McKenna Lewis</h3>
  McKenna is a computer science major and student athlete from the Central Valley. She is on the NCAA cross country and track team at UCSD, and also tutors in the CSE department. She is interested in computational bioinformatics research.
  
+ <h3>PhD Rotation students</h3>
+
+ ![mckenna](/images/JA_headshot.png){: .align-left}
+ <h3>Jessica Au</h3>
+ Jessica is currently a Ph.D student in the Bioinformatics and Systems Biology (BISB) program. She graduated from UC Davis with a degree in Mathematics and Scientific computation and minored in Bioinformatics and Quantitative Biology. Her current research interests are focused on how changes in the genome could drive tumor development. When she's not busy being a workaholic, she enjoys staying active and being a plant mom. She is also a proud parent of a forever curious, treat-tracking dog & insatiable goldfish.
+ 
  &nbsp;
  
 &nbsp;
