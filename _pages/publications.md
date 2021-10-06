@@ -4,12 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+italicized = QCC lab trainee
 <h2>Preprints</h2>
 
-<p>20.  Guo Q, Lakatos E, Al Bakir I, <strong>Curtius K</strong>, Graham TA, Mustonen V. (2021) <a href="https://www.biorxiv.org/content/10.1101/2021.03.11.434918v1" target="_blank"> The mutational signatures of formalin fixation on the human genome.</a> bioRxiv doi: 10.1101/2021.03.11.434918 (in revision)
+<p>22.  Talwar J, Laub D, Pagadala M, Castro A, <i>Lewis M</i>,..., <strong>Curtius K</strong>, Zanetti M, Carter H. (2021) <a href="https://www.biorxiv.org/content/10.1101/2021.08.12.456166v1.abstract" target="_blank"> Autoimmune Alleles at the Major Histocompatibility Locus Modify Melanoma Susceptibility. </a> bioRxiv doi: 10.1101/2021.08.12.456166
+<p>21.  Guo Q, Lakatos E, Al Bakir I, <strong>Curtius K</strong>, Graham TA, Mustonen V. (2021) <a href="https://www.biorxiv.org/content/10.1101/2021.03.11.434918v1" target="_blank"> The mutational signatures of formalin fixation on the human genome.</a> bioRxiv doi: 10.1101/2021.03.11.434918 (in revision)
 
 <h2>Peer-reviewed articles</h2>
+<p>20. <i>Guccione C</i>, Yadlaptai R, Shah S, Knight R, <strong>Curtius K</strong>. (2021) <a href="https://www.mdpi.com/2076-2607/9/10/2003" target="_blank"> Challenges in determining the role of microbiome evolution in Barrett’s esophagus and progression to esophageal adenocarcinoma.</a> Microorganisms 9(1):2003
 <p>19. <strong>Curtius K</strong>, Rubenstein JH, Chak A, Inadomi JM. (2021) <a href="https://gut.bmj.com/content/70/8/1435.long" target="_blank"> Computational modelling suggests that Barrett's oesophagus may be the precursor of all oesophageal adenocarcinomas.</a> Gut 70(8):1435-1440
 </p><p>18. <strong>Curtius K*</strong>, Kabir M*, Al Bakir I, Choi CHR, Hartono J, et al. (2021) <a href="https://gut.bmj.com/content/early/2021/05/13/gutjnl-2020-323546.abstract" target="_blank"> Multi-centre derivation and validation of a colitis-associated colorectal cancer risk prediction web-tool.</a> Gut, Epub ahead of print doi: 10.1136/gutjnl-2020-323546. *joint first authors 
 </p><p>17. Luebeck GE, Vaughan TL, <strong>Curtius K</strong>, Hazelton WD. (2021) <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008961" target="_blank"> Modeling historic incidence trends implies early field cancerization in esophageal squamous cell carcinoma.</a> PLoS Comput Biol 17(5):e1008961
