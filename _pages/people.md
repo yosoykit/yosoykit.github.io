@@ -44,9 +44,17 @@ Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (
 
  <h3>PhD Rotation students</h3>
 
- ![mckenna](/images/JA_headshot.png){: .align-left}
+ ![jessica](/images/JA_headshot.png){: .align-left}
  <h3>Jessica Au</h3>
  Jessica is currently a Ph.D student in the Bioinformatics and Systems Biology (BISB) program. She graduated from UC Davis with a degree in Mathematics and Scientific computation and minored in Bioinformatics and Quantitative Biology. Her current research interests are focused on how changes in the genome could drive tumor development. When she's not busy being a workaholic, she enjoys staying active and being a plant mom. She is also a proud parent of a forever curious, treat-tracking dog & insatiable goldfish.
+
+&nbsp;
+  
+ &nbsp;
+ 
+![brian](/images/Lab_photo_placeholder.png){:.align-left}
+ <h3>Brian Johnson</h3>
+ Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated from Rutgers University in 2020 with a B.S. in Physics. His current research interests are wide-ranging, but generally focus on analyzing multi-omic data to improve detection and treatment of cancer. His rotation project focuses on the phylogenetics of neutrally evolving tumors. In his free time, he enjoys surfing and running.
  
  &nbsp;
  
