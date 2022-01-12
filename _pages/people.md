@@ -44,29 +44,18 @@ Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (
 
  <h3>PhD Rotation students</h3>
 
- ![jessica](/images/JA_headshot.png){: .align-left}
- <h3>Jessica Au</h3>
- Jessica is currently a Ph.D student in the Bioinformatics and Systems Biology (BISB) program. She graduated from UC Davis with a degree in Mathematics and Scientific computation and minored in Bioinformatics and Quantitative Biology. Her current research interests are focused on how changes in the genome could drive tumor development. When she's not busy being a workaholic, she enjoys staying active and being a plant mom. She is also a proud parent of a forever curious, treat-tracking dog & insatiable goldfish.
+ ![jessica](/images/TJSears_headshot.png){: .align-left}
+ <h3>TJ Sears</h3>
+TJ is a Ph.D. student in the Bioinformatics and Systems Biology (BISB) program. He graduated from UC Santa Barbara with a degree in biochemistry & molecular bio, but quickly realized that computational biology is way cooler. He is interested in using various “omics” to measure the various ways in which a tumor can form and resist treatment. When not arguing with his linux terminal, TJ enjoys surfing and playing basketball.
 
 &nbsp;
   
  &nbsp;
  
-![brian](/images/Lab_photo_placeholder.png){:.align-left}
- <h3>Brian Johnson</h3>
- Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated from Rutgers University in 2020 with a B.S. in Physics. His current research interests are wide-ranging, but generally focus on analyzing multi-omic data to improve detection and treatment of cancer. His rotation project focuses on the phylogenetics of neutrally evolving tumors. In his free time, he enjoys surfing and running.
+![brian](/images/DavidLaub_headshot.png){:.align-left}
+ <h3>David Laub</h3>
+David is a PhD student in biomedical informatics with interests in cancer, immunology, and models of their evolution and response to drugs. His current research centers on creating Bayesian models of tumor evolution in melanoma and Barrett’s Esophagus and finding the best ways to see more of TJ’s dog, Snickers. When he’s not “in the lab” he enjoys cooking, playing music, and occasionally catching up on the latest episodes of dating shows.  
  
- &nbsp;
- 
-&nbsp;
-
-&nbsp;
- <h3>Research interns</h3>
-
-![phillip](/images/Lab_photo_placeholder.png){:.align-left}
-<h3>Phillip Pham</h3>
-Phillip is a student at the University of Houston majoring in Biochemistry and Psychology. He is part of the STARS program and DBMI Summer Internship Program. His research project, through the lens of computational biology, focuses on the interactions between inflammatory bowel disease, whole genome doubling, and its potential link to colorectal carcinoma. During the past year, Phillip tried learning magic tricks but always got exposed, taking half the fun away. His real hobbies include cooking tikka masala, casually playing tennis, and traveling.
-
 &nbsp; 
 
 &emsp;
