@@ -33,7 +33,7 @@ Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (
 
 ![caitlin](/images/BrianJohnson.jpg){: .align-left}
 <h3>Brian Johnson</h3>
-Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated from Rutgers University in 2020 with a B.S. in Physics. His current research interests are wide-ranging, but generally focus on analyzing multi-omic data to improve detection and treatment of cancer. His curent research focuses on the phylogenetics of neutrally evolving tumors. In his free time, he enjoys surfing and running. Email contact: bdj001@ucsd.edu
+Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated from Rutgers University in 2020 with a B.S. in Physics. His current research interests are wide-ranging, but generally focus on analyzing multi-omic data to improve detection and treatment of cancer. His current work focuses on the phylogenetics of neutrally evolving tumors. In his free time, he enjoys surfing and running. Email contact: bdj001@ucsd.edu
 
 &nbsp;
 
