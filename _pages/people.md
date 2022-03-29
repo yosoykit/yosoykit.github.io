@@ -30,32 +30,14 @@ Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (
 
 &nbsp;
 
-<h3>Undergraduate researchers</h3>
+&nbsp;
 
- ![mckenna](/images/MckennaLewis.png){: .align-left}
- <h3>McKenna Lewis</h3>
- McKenna is a computer science major and student athlete from the Central Valley. She is on the NCAA cross country and track team at UCSD, and also tutors in the CSE department. She is interested in computational bioinformatics research.
- 
- &nbsp;
- 
- &nbsp;
- 
- &nbsp;
-
- <h3>PhD Rotation students</h3>
-
- ![jessica](/images/TJSears_headshot.png){: .align-left}
- <h3>TJ Sears</h3>
-TJ is a Ph.D. student in the Bioinformatics and Systems Biology (BISB) program. He graduated from UC Santa Barbara with a degree in biochemistry & molecular bio, but quickly realized that computational biology is way cooler. He is interested in using various “omics” to measure the various ways in which a tumor can form and resist treatment. When not arguing with his linux terminal, TJ enjoys surfing and playing basketball.
+![caitlin](/images/BrianJohnson.jpg){: .align-left}
+<h3>Brian Johnson</h3>
+Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated from Rutgers University in 2020 with a B.S. in Physics. His current research interests are wide-ranging, but generally focus on analyzing multi-omic data to improve detection and treatment of cancer. His rotation project focuses on the phylogenetics of neutrally evolving tumors. In his free time, he enjoys surfing and running. Email contact: bdj001@ucsd.edu
 
 &nbsp;
-  
- &nbsp;
- 
-![brian](/images/DavidLaub_headshot.png){:.align-left}
- <h3>David Laub</h3>
-David is a PhD student in biomedical informatics with interests in cancer, immunology, and models of their evolution and response to drugs. His current research centers on creating Bayesian models of tumor evolution in melanoma and Barrett’s Esophagus and finding the best ways to see more of TJ’s dog, Snickers. When he’s not “in the lab” he enjoys cooking, playing music, and occasionally catching up on the latest episodes of dating shows.  
- 
+
 &nbsp; 
 
 &emsp;
