@@ -37,6 +37,8 @@ Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduat
 
 &nbsp;
 
+&nbsp;
+
 <h3>PhD rotation students</h3>
 
 ![dante](/images/DanteBolzan_small.jpg){: .align-left}
