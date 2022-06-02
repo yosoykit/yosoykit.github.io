@@ -37,6 +37,14 @@ Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduat
 
 &nbsp;
 
+<h3>PhD rotation students</h3>
+
+![dante](/images/DanteBolzan_small.jpg){: .align-left}
+<h3>Dante Bolzan</h3>
+Dante is a first year bioinformatics and systems biology PhD student. His research interests are varied, and he is currently working on estimating the age of Barrett's Esophagus using methylomic data. In his free time he likes to watch and play soccer and cook.
+
+&nbsp;
+
 &nbsp; 
 
 &emsp;
