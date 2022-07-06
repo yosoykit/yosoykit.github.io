@@ -39,11 +39,11 @@ Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduat
 
 &nbsp;
 
-<h3>PhD rotation students</h3>
+<h3>Summer DBMI Interns</h3>
 
-![dante](/images/DanteBolzan_small.jpg){: .align-left}
-<h3>Dante Bolzan</h3>
-Dante is a first year bioinformatics and systems biology PhD student. His research interests are varied, and he is currently working on estimating the age of Barrett's Esophagus using methylomic data. In his free time he likes to watch and play soccer and cook.
+![dante](/images/SamiRyan.png){: .align-left}
+<h3>Sami Ryan</h3>
+Sami is a sophomore at the University of California Los Angeles majoring in Human Biology and Society. Currently, she is excited to help Kit and Caitlin in their research studying the links between cancer and the microbiome. In her free time, she enjoys running and baking.
 
 &nbsp;
 
@@ -56,4 +56,14 @@ Dante is a first year bioinformatics and systems biology PhD student. His resear
  Please contact Dr. Curtius by email if you are a PhD student in the UCSD Bioinformatics & Systems Biology program who is interested in doing a research rotation, or if you are (or are soon to be) a doctoral graduate (PhD and/or MD) who is interested in applying to an open postdoctoral position on our team. I am happy to discuss available opportunities and potential projects, and to answer questions. 
 
 
+&nbsp;
 
+&nbsp; 
+
+&emsp;
+
+<h2>QCC Lab Alumni</h2>
+
+Phillip Pham (UCSD STARS Summer Intern 2021): currently PhD student and Fullbright scholar at 
+
+McKenna Johnson (Undergraduate researcher 2020-2022): currently software engineer at
