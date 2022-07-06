@@ -58,9 +58,6 @@ Sami is a sophomore at the University of California Los Angeles majoring in Huma
 
 &nbsp;
 
-&nbsp; 
-
-&emsp;
 
 <h2>QCC Lab Alumni</h2>
 
