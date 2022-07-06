@@ -64,6 +64,6 @@ Sami is a sophomore at the University of California Los Angeles majoring in Huma
 
 <h2>QCC Lab Alumni</h2>
 
-Phillip Pham (UCSD STARS Summer Intern 2021): currently PhD student and Fullbright scholar at 
+Phillip Pham (UCSD STARS Summer Intern 2021): currently PhD student and Fullbright scholar 
 
-McKenna Johnson (Undergraduate researcher 2020-2022): currently software engineer at
+McKenna Johnson (Undergraduate researcher 2020-2022): currently Software Engineer at Resilience
