@@ -43,7 +43,7 @@ Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduat
 
 ![dante](/images/DouglasMeyer.png){: .align-left}
 <h3>Douglas Meyer</h3>
-Douglas is a PhD student in the Bioinformatics and Systems Biology (BISB) program, currently rotating with Dr. Kit Curtius. He graduated from UCLA with a B.S. in Molecular Cell and Developmental biology and completed a post-bac fellowship at the FDA. His research interests lie broadly at the intersection of cancer biology and computational analyses. His rotation work is focused on methylome profiling of Barret’s esophagus to infer esophageal adenocarcinoma risk. In his free time, he enjoys baking.
+Douglas is a PhD student in the Bioinformatics and Systems Biology (BISB) program, currently rotating with Dr. Kit Curtius. He graduated from UCLA with a B.S. in Molecular Cell and Developmental biology and completed a post-bac fellowship at the FDA. His research interests lie broadly at the intersection of cancer biology and computational analyses. His rotation work is focused on methylome profiling of Barrett’s esophagus to infer esophageal adenocarcinoma risk. In his free time, he enjoys baking.
 
 &nbsp;
 
@@ -52,7 +52,7 @@ Douglas is a PhD student in the Bioinformatics and Systems Biology (BISB) progra
 <h3>Undergraduate researchers</h3>
 
 ![dante](/images/SandrineAmudhan.png){: .align-left}
-<h3>SandrineAmudhan</h3>
+<h3>Sandrine Amudhan</h3>
 Sandrine is an undergraduate student at UCSD, majoring in Molecular and Cell Biology. Her interest is in Bioinformatics/Bioengineering, and hoping to focus her graduate studies on these fields. She is currently involved in Dr. Curtius' research analyzing data to study the relationship between inflammatory bowel disease cancer and genetics to improve detection of IBD cancer. In her free time, she enjoys dancing and reading. Email contact: samudhan@ucsd.edu
 
 &nbsp;
