@@ -39,11 +39,21 @@ Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduat
 
 &nbsp;
 
-<h3>Summer DBMI Interns</h3>
+<h3>PhD rotation students</h3>
 
-![dante](/images/SamiRyan.png){: .align-left}
-<h3>Sami Ryan</h3>
-Sami is a sophomore at the University of California Los Angeles majoring in Human Biology and Society. Currently, she is excited to help Kit and Caitlin in their research studying the links between cancer and the microbiome. In her free time, she enjoys running and baking.
+![dante](/images/DouglasMeyer.png){: .align-left}
+<h3>Douglas Meyer</h3>
+Douglas is a PhD student in the Bioinformatics and Systems Biology (BISB) program, currently rotating with Dr. Kit Curtius. He graduated from UCLA with a B.S. in Molecular Cell and Developmental biology and completed a post-bac fellowship at the FDA. His research interests lie broadly at the intersection of cancer biology and computational analyses. His rotation work is focused on methylome profiling of Barret’s esophagus to infer esophageal adenocarcinoma risk. In his free time, he enjoys baking.
+
+&nbsp;
+
+&nbsp; 
+
+<h3>Undergraduate researchers</h3>
+
+![dante](/images/SandrineAmudhan.png){: .align-left}
+<h3>SandrineAmudhan</h3>
+Sandrine is an undergraduate student at UCSD, majoring in Molecular and Cell Biology. Her interest is in Bioinformatics/Bioengineering, and hoping to focus her graduate studies on these fields. She is currently involved in Dr. Curtius' research analyzing data to study the relationship between inflammatory bowel disease cancer and genetics to improve detection of IBD cancer. In her free time, she enjoys dancing and reading. Email contact: samudhan@ucsd.edu
 
 &nbsp;
 
@@ -60,6 +70,8 @@ Sami is a sophomore at the University of California Los Angeles majoring in Huma
 
 
 <h2>QCC Lab Alumni</h2>
+
+Sami Ryan (Summer DBMI Intern 2022): current undergraduate at UCLA
 
 Phillip Pham (UCSD STARS Summer Intern 2021): currently PhD student and Fullbright scholar 
 
