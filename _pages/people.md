@@ -39,11 +39,11 @@ Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduat
 
 &nbsp;
 
-<h3>PhD rotation students</h3>
+<h3>Research data analyst</h3>
 
-![dante](/images/DouglasMeyer.png){: .align-left}
-<h3>Douglas Meyer</h3>
-Douglas is a PhD student in the Bioinformatics and Systems Biology (BISB) program, currently rotating with Dr. Kit Curtius. He graduated from UCLA with a B.S. in Molecular Cell and Developmental biology and completed a post-bac fellowship at the FDA. His research interests lie broadly at the intersection of cancer biology and computational analyses. His rotation work is focused on methylome profiling of Barrett’s esophagus to infer esophageal adenocarcinoma risk. In his free time, he enjoys baking.
+![dante](/images/CindyH_headshot.jpg){: .align-left}
+<h3>Cindy Huang</h3>
+Cindy (Xinyi) Huang is a statistician who currently works in Dr. Kit Curtius's team, collaborating closely with Dr. Samir Gupta's team. She received her undergraduate degree in Statistics from UC San Diego in 2021 and completed her Master's degree in Biostatistics from the same university in 2023. With her expertise in statistical methods and their applications, Cindy is actively involved in cancer-related research, particularly in analyzing VA databases. In her free time, Cindy enjoys cooking, bird watching, and playing the traditional Chinese instrument, the Erhu. Email contact: xih057@health.ucsd.edu.
 
 &nbsp;
 
