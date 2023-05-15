@@ -51,6 +51,16 @@ Cindy (Xinyi) Huang is a statistician who currently works in Dr. Kit Curtius's t
 
 &nbsp; 
 
+<h3>Software engineer</h3>
+
+![dante](/images/TylerBath_headshot.jpg){: .align-left}
+<h3>Tyler Bath</h3>
+Tyler is a software engineer at the UCSD Division of Biomedical Informatics who works with Dr. Kit Curtius's team. He recieved a B.S. in Computer Science from UCSD in 2014. His recent research focuses on protecting patient privacy, distributed analytics, and automation of pipelines and workflows via intuitive web interfaces. His free time is spent hiking with his dog, gardening, or diy hobbies from woodworking to 3d printing.
+
+&nbsp;
+
+&nbsp; 
+
 <h3>Undergraduate researchers</h3>
 
 ![dante](/images/SandrineAmudhan.png){: .align-left}
