@@ -41,6 +41,8 @@ Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduat
 
 &nbsp;
 
+&nbsp;
+
 <h3>Research data analyst</h3>
 
 ![dante](/images/CindyH_headshot.jpg){: .align-left}
