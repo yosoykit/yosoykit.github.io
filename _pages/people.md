@@ -73,6 +73,16 @@ Sandrine is an undergraduate student at UCSD, majoring in Molecular and Cell Bio
 
 &nbsp; 
 
+<h3>Summer research interns</h3>
+
+![busra](/images/busra_image.JPG){: .align-left}
+<h3>Busra Coskun</h3>
+Busra is a rising senior at Lower Merion High School just outside of Philadelphia, Pennsylvania and is working with Dr. Curtius' lab through the NIH Short-Term Research Experience Program to Unlock Potential (STEP-UP) program. She is interested in bioinformatics, computational biology, and data science. Busra previously participated in research projects regarding immunology at the University of Pennsylvania and antimicrobial resistance at Rice University. She was able to publish her award-winning research paper in the conference proceedings of the International Young Researchers' Conference. Besides membership to several clubs, she is the founding president of her school's Ace Scholars club, which facilitates interactions between high school students and college professors. Currently, Busra is studying inflammatory bowel disease genetics using next-generation sequencing. In her free time, you can find her reading, drawing, or playing badminton.
+
+&nbsp;
+
+&nbsp; 
+
 &emsp;
 
 <h2>Openings</h2>
