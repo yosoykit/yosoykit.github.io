@@ -49,6 +49,13 @@ Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduat
 <h3>Hyrum Eddington</h3>
 Hyrum is a PhD student in the Biomedical informatics (BMI) program. He graduated from Brigham Young University in Bioinformatics and spent 3 years as a data analyst at the Stanford Department of Surgery before coming to UCSD. He is currently interested in utilizing data from both clinical and biological contexts to better inform clinical decision making and improve personalized cancer care. He enjoys rock climbing, pickleball, and anything sci-fi fantasy related. Email contact: heddington@ucsd.edu
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 <h3>Research data analyst</h3>
 
