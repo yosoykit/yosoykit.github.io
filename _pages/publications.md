@@ -5,10 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 <i>italicized name</i>= QCC lab trainee
-<h2>Preprints</h2>
-<p>30.  <i>Johnson B*</i>, Shuai Y*, Schweinsberg J, <strong>Curtius K</strong>. (2023) <a href="https://www.biorxiv.org/content/10.1101/2023.02.24.529817v1" target="_blank">Estimating single cell clonal dynamics in human blood using coalescent theory.</a> bioRxiv doi:10.1101/2023.02.24.529817. *joint first authors
 
 <h2>Peer-reviewed articles</h2>
+<p>30.  <i>Johnson B*</i>, Shuai Y*, Schweinsberg J, <strong>Curtius K</strong>. (2023) <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad561/7271182" target="_blank">cloneRate: fast estimation of single-cell clonal dynamics using coalescent theory.</a> Bioinformatics btad561. *joint first authors
 <p>29.  Lu B, <strong>Curtius K</strong>, Graham TA, Yang Z, Barnes CP (2023) <a href="https://www.biorxiv.org/content/10.1101/2022.03.18.484889v1" target="_blank"> CNETML: Maximum likelihood inference of phylogeny from copy number profiles of spatio-temporal samples.</a> Genome Biol (in press)
 <p>28.  Talwar J, Laub D, Pagadala M, Castro A, <i>Lewis M</i>,..., <strong>Curtius K</strong>, Zanetti M, Carter H. (2023) <a href="https://www.biorxiv.org/content/10.1101/2021.08.12.456166v1.abstract" target="_blank"> Autoimmune Alleles at the Major Histocompatibility Locus Modify Melanoma Susceptibility.</a> Am J Hum Genet (in press)
 <p>27. <i>Guccione C</i>, McDonald D, Fielding-Miller R, <strong>Curtius K</strong>, Knight R. (2023) <a href="https://www.nature.com/articles/s41564-023-01395-x" target="_blank"> You are what you excrete.</a> Nat Microbiol 8:1002–1003.
