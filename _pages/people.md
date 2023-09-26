@@ -53,9 +53,6 @@ Hyrum is a PhD student in the Biomedical informatics (BMI) program. He graduated
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
 
 <h3>Research data analyst</h3>
 
