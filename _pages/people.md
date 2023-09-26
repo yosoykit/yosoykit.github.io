@@ -43,6 +43,13 @@ Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduat
 
 &nbsp;
 
+<h3>PhD rotation students</h3>
+
+![busra](/images/HyrumEddington_headshot.jpg){: .align-left}
+<h3>Hyrum Eddington</h3>
+Hyrum is a PhD student in the Biomedical informatics (BMI) program. He graduated from Brigham Young University in Bioinformatics and spent 3 years as a data analyst at the Stanford Department of Surgery before coming to UCSD. He is currently interested in utilizing data from both clinical and biological contexts to better inform clinical decision making and improve personalized cancer care. He enjoys rock climbing, pickleball, and anything sci-fi fantasy related. Email contact: heddington@ucsd.edu
+
+
 <h3>Research data analyst</h3>
 
 ![dante](/images/CindyH_headshot.jpg){: .align-left}
@@ -65,21 +72,18 @@ Tyler is a software engineer at the UCSD Division of Biomedical Informatics who 
 
 <h3>Undergraduate researchers</h3>
 
-![dante](/images/SandrineAmudhan.png){: .align-left}
+![sandrine](/images/SandrineAmudhan.png){: .align-left}
 <h3>Sandrine Amudhan</h3>
 Sandrine is an undergraduate student at UCSD, majoring in Molecular and Cell Biology. Her interest is in Bioinformatics/Bioengineering, and hoping to focus her graduate studies on these fields. She is currently involved in Dr. Curtius' research analyzing data to study the relationship between inflammatory bowel disease cancer and genetics to improve detection of IBD cancer. In her free time, she enjoys dancing and reading. Email contact: samudhan@ucsd.edu
 
 &nbsp;
 
+![lori](/images/LorijaneRobles_headshot.jpg){: .align-left}
+<h3>Lorijane Robles</h3>
+Lori is a pre-med undergraduate student at UCSD majoring in Human Biology, and minoring in Psychology. Currently, she is a Towns and Gowns Scholar, a mentee in UCSD BUMMP, and a member of the Roosevelt College Honors Program. She aspires to pursue a professional career in both Medicine and Clinical Research. As a fourth year, she currently works as a Clinical Research Coordinator for the UCSD GEODE Research Program that is Co-lead by Dr. Curtius. During her free-time, Lori enjoys fitness, rock-climbing, and spending time with Picogram (my cat).
+BUMMP=Biology Undergraduate and Master’s Mentorship Program
+
 &nbsp; 
-
-<h3>Summer research interns</h3>
-
-![busra](/images/busra_image.JPG){: .align-left}
-<h3>Busra Coskun</h3>
-Busra is a rising senior at Lower Merion High School just outside of Philadelphia, Pennsylvania and is working with Dr. Curtius' lab through the NIH Short-Term Research Experience Program to Unlock Potential (STEP-UP) program. She is interested in bioinformatics, computational biology, and data science. Busra previously participated in research projects regarding immunology at the University of Pennsylvania and antimicrobial resistance at Rice University. She was able to publish her award-winning research paper in the conference proceedings of the International Young Researchers' Conference. Besides membership to several clubs, she is the founding president of her school's Ace Scholars club, which facilitates interactions between high school students and college professors. Currently, Busra is studying inflammatory bowel disease genetics using next-generation sequencing. In her free time, you can find her reading, drawing, or playing badminton.
-
-&nbsp;
 
 &nbsp; 
 
@@ -94,6 +98,8 @@ Busra is a rising senior at Lower Merion High School just outside of Philadelphi
 
 
 <h2>QCC Lab Alumni</h2>
+
+Busra Coskun (Summer NIH STEP-UP researcher 2023): current senior at Lower Merion High School 
 
 Sami Ryan (Summer DBMI Intern 2022): current undergraduate at UCLA
 
