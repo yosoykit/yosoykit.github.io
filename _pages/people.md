@@ -78,6 +78,8 @@ Sandrine is an undergraduate student at UCSD, majoring in Molecular and Cell Bio
 
 &nbsp;
 
+&nbsp; 
+
 ![lori](/images/LorijaneRobles_headshot.jpg){: .align-left}
 <h3>Lorijane Robles</h3>
 Lori is a pre-med undergraduate student at UCSD majoring in Human Biology, and minoring in Psychology. Currently, she is a Towns and Gowns Scholar, a mentee in UCSD BUMMP, and a member of the Roosevelt College Honors Program. She aspires to pursue a professional career in both Medicine and Clinical Research. As a fourth year, she currently works as a Clinical Research Coordinator for the UCSD GEODE Research Program that is Co-lead by Dr. Curtius. During her free-time, Lori enjoys fitness, rock-climbing, and spending time with Picogram (my cat).
