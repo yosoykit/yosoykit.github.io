@@ -104,7 +104,7 @@ BUMMP=Biology Undergraduate and Master’s Mentorship Program
 
 <h3>Summer research interns</h3>
 
-![erica](/images/Erica_Rodas_headshot.jpg){: .align-left}
+<img src="/images/Erica_Rodas_headshot.jpg" alt="erica" style="width:300px;">{: .align-left}
 <h3>Erica Rodas Montejo</h3>
 I am a rising senior at California State University San Marcos, where I am majoring in Chemistry. As a first-generation student from Guatemala, I am dedicated to advancing my education and plan to pursue a Ph.D. in Medicinal Chemistry. My career aspiration is to contribute to cancer research by developing therapeutics aimed at inhibiting the proliferation of cancer cells. Currently, I am working in Dr. Curtius’s lab, where my research focuses on exploring the microbiome in pre-cancerous conditions of the colon. Beyond my academic pursuits, I am actively involved in church service as a catechist, a role I deeply enjoy for the opportunity it provides to interact with and mentor young children.
 
