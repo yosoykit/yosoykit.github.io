@@ -22,7 +22,7 @@ Address: Division of Biomedical Informatics, 9500 Gilman Drive, La Jolla, CA 920
 
 <h2>Lab members</h2>
 
-<h3>Graduate students</h3>
+<h3>PhD students</h3>
 
 ![caitlin](/images/CaitlinGuccione_small.png){: .align-left}
 <h3>Caitlin Guccione</h3>
@@ -31,23 +31,27 @@ Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (
 &nbsp;
 
 
-![caitlin](/images/Brian_johnson_headshot_small.jpg){: .align-left}
+![brian](/images/Brian_johnson_headshot_small.jpg){: .align-left}
 <h3>Brian Johnson</h3>
 Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated from Rutgers University in 2020 with a B.S. in Physics. His current research interests are wide-ranging, but generally focus on analyzing multi-omic data to improve detection and treatment of cancer. His current work focuses on the phylogenetics of neutrally evolving tumors. In his free time, he enjoys surfing and running. Email contact: bdj001@ucsd.edu
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-<h3>PhD rotation students</h3>
-
-![busra](/images/HyrumEddington_headshot.jpg){: .align-left}
+![hyrum](/images/HyrumEddington_headshot.jpg){: .align-left}
 <h3>Hyrum Eddington</h3>
-Hyrum is a PhD student in the Biomedical informatics (BMI) program. He graduated from Brigham Young University in Bioinformatics and spent 3 years as a data analyst at the Stanford Department of Surgery before coming to UCSD. He is currently interested in utilizing data from both clinical and biological contexts to better inform clinical decision making and improve personalized cancer care. He enjoys rock climbing, pickleball, and anything sci-fi fantasy related. Email contact: heddington@ucsd.edu
+Hyrum is a PhD student in the Biomedical informatics (BMI) program. He graduated from Brigham Young University in Bioinformatics in 2020 and spent 3 years as a data analyst at the Stanford Department of Surgery before coming to UCSD. His current research projects are focused in cancer genomics, particularly in cancer immunology and exploring the shared role of the immune system in autoimmune disorders and cancer.  He enjoys rock climbing, pickleball, and anything sci-fi fantasy related. Email contact: heddington@ucsd.edu
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<h3>Master's student researchers</h3>
+
+![menxue](/images/Menxue_Xia_headshot.jpg){: .align-left}
+<h3>Mengxue Xia</h3>
+Mengxue is a first-year master's student in biostatistics at UCSD, currently interning with Dr. Kit Curtius's team for summer 2024. She has a bachelor's degree in Chemical Engineering and has two years of experience as a lab researcher in the pharmaceutical industry, focusing on the development of anti-cancer drugs. Mengxue aims to leverage her interdisciplinary background in drug discovery and statistics to generate unique insights in cancer genomics. In her spare time, she enjoys playing tennis, editing videos, and traveling. Email contact: mexia@ucsd.edu
 
 &nbsp;
 
@@ -88,6 +92,17 @@ Sandrine is an undergraduate student at UCSD, majoring in Molecular and Cell Bio
 <h3>Lorijane Robles</h3>
 Lori is a pre-med undergraduate student at UCSD majoring in Human Biology, and minoring in Psychology. Currently, she is a Towns and Gowns Scholar, a mentee in UCSD BUMMP, and a member of the Roosevelt College Honors Program. She aspires to pursue a professional career in both Medicine and Clinical Research. As a fourth year, she currently works as a Clinical Research Coordinator for the UCSD GEODE Research Program that is Co-lead by Dr. Curtius. During her free-time, Lori enjoys fitness, rock-climbing, and spending time with Picogram (my cat).
 BUMMP=Biology Undergraduate and Master’s Mentorship Program
+
+
+&nbsp;
+
+&nbsp; 
+
+<h3>Summer research interns</h3>
+
+![erica](/images/Erica_Rodas_headshot.jpg){: .align-left}
+<h3>Erica Rodas Montejo</h3>
+Lori is a pre-med undergraduate student at UCSD majoring in Human Biology, and minoring in Psychology. Currently, she is a Towns and Gowns Scholar, a I am a rising senior at California State University San Marcos, where I am majoring in Chemistry. As a first-generation student from Guatemala, I am dedicated to advancing my education and plan to pursue a Ph.D. in Medicinal Chemistry. My career aspiration is to contribute to cancer research by developing therapeutics aimed at inhibiting the proliferation of cancer cells. Currently, I am working in Dr. Curtius’s lab, where my research focuses on exploring the microbiome in pre-cancerous conditions of the colon. Beyond my academic pursuits, I am actively involved in church service as a catechist, a role I deeply enjoy for the opportunity it provides to interact with and mentor young children.
 
 &nbsp; 
 
