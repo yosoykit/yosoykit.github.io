@@ -61,10 +61,6 @@ Sam is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 <h3>Master's student researchers</h3>
 
 ![menxue](/images/Menxue_Xia_headshot.jpg){: .align-left}
@@ -72,8 +68,6 @@ Sam is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated
 Mengxue is a first-year master's student in biostatistics at UCSD, currently interning with Dr. Kit Curtius's team for summer 2024. She has a bachelor's degree in Chemical Engineering and has two years of experience as a lab researcher in the pharmaceutical industry, focusing on the development of anti-cancer drugs. Mengxue aims to leverage her interdisciplinary background in drug discovery and statistics to generate unique insights in cancer genomics. In her spare time, she enjoys playing tennis, editing videos, and traveling. Email contact: mexia@ucsd.edu
 
 &nbsp;
-
-&nbsp; 
 
 <h3>Software engineer</h3>
 
@@ -112,10 +106,6 @@ BUMMP=Biology Undergraduate and Master’s Mentorship Program
 I am a rising senior at California State University San Marcos, where I am majoring in Chemistry. As a first-generation student from Guatemala, I am dedicated to advancing my education and plan to pursue a Ph.D. in Medicinal Chemistry. My career aspiration is to contribute to cancer research by developing therapeutics aimed at inhibiting the proliferation of cancer cells. Currently, I am working in Dr. Curtius’s lab, where my research focuses on exploring the microbiome in pre-cancerous conditions of the colon. Beyond my academic pursuits, I am actively involved in church service as a catechist, a role I deeply enjoy for the opportunity it provides to interact with and mentor young children.
 
 &nbsp; 
-
-&nbsp; 
-
-&emsp;
 
 <h2>Openings</h2>
 
