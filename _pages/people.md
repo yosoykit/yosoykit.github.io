@@ -49,6 +49,14 @@ Hyrum is a PhD student in the Biomedical informatics (BMI) program. He graduated
 
 &nbsp;
 
+![sam](/images/SamReynolds_headshot.jpeg){: .align-left}
+<h3>Sam Reynolds</h3>
+Sam is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated from Dartmouth College in 2023 with a B.A. in Biology and a minor in computer science. His current research interests include DNA methylation, machine learning, and cancer modeling. His current work focuses on understanding clonal expansion in Barret’s esophagus. In his free time, he enjoys surfing, skateboarding, and spearfishing. Email contact: srreynolds@ucsd.edu
+
+&nbsp;
+
+&nbsp;
+
 &nbsp;
 
 <h3>Master's student researchers</h3>
@@ -56,17 +64,6 @@ Hyrum is a PhD student in the Biomedical informatics (BMI) program. He graduated
 ![menxue](/images/Menxue_Xia_headshot.jpg){: .align-left}
 <h3>Mengxue Xia</h3>
 Mengxue is a first-year master's student in biostatistics at UCSD, currently interning with Dr. Kit Curtius's team for summer 2024. She has a bachelor's degree in Chemical Engineering and has two years of experience as a lab researcher in the pharmaceutical industry, focusing on the development of anti-cancer drugs. Mengxue aims to leverage her interdisciplinary background in drug discovery and statistics to generate unique insights in cancer genomics. In her spare time, she enjoys playing tennis, editing videos, and traveling. Email contact: mexia@ucsd.edu
-
-&nbsp;
-
-&nbsp;
-
-
-<h3>Research data analyst</h3>
-
-![dante](/images/CindyH_headshot.jpg){: .align-left}
-<h3>Cindy Huang</h3>
-Cindy (Xinyi) Huang is a statistician who currently works in Dr. Kit Curtius's team, collaborating closely with Dr. Samir Gupta's team. She received her undergraduate degree in Statistics from UC San Diego in 2021 and completed her Master's degree in Biostatistics from the same university in 2023. With her expertise in statistical methods and their applications, Cindy is actively involved in cancer-related research, particularly in analyzing VA databases. In her free time, Cindy enjoys cooking, bird watching, and playing the traditional Chinese instrument, the Erhu. Email contact: xih057@health.ucsd.edu.
 
 &nbsp;
 
@@ -123,6 +120,8 @@ I am a rising senior at California State University San Marcos, where I am major
 
 
 <h2>QCC Lab Alumni</h2>
+
+Cindy Huang (Research data analyst 2023-2024)
 
 Busra Coskun (Summer NIH STEP-UP researcher 2023): current senior at Lower Merion High School 
 
