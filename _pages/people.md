@@ -49,7 +49,7 @@ Hyrum is a PhD student in the Biomedical informatics (BMI) program. He graduated
 
 &nbsp;
 
-<img src="/images/SamReynolds_headshot.jpeg" alt="sam" style="width:250px;">{: .align-left}
+<img src="/images/SamReynolds_headshot.jpeg" alt="sam" style="width:275px;">{: .align-left}
 <h3>Sam Reynolds</h3>
 Sam is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated from Dartmouth College in 2023 with a B.A. in Biology and a minor in computer science. His current research interests include DNA methylation, machine learning, and cancer modeling. His current work focuses on understanding clonal expansion in Barret’s esophagus. In his free time, he enjoys surfing, skateboarding, and spearfishing. Email contact: srreynolds@ucsd.edu
 
@@ -79,47 +79,25 @@ Tyler is a software engineer at the UCSD Division of Biomedical Informatics who 
 
 &nbsp; 
 
-<h3>Undergraduate researchers</h3>
-
-![sandrine](/images/SandrineAmudhan.png){: .align-left}
-<h3>Sandrine Amudhan</h3>
-Sandrine is an undergraduate student at UCSD, majoring in Molecular and Cell Biology. Her interest is in Bioinformatics/Bioengineering, and hoping to focus her graduate studies on these fields. She is currently involved in Dr. Curtius' research analyzing data to study the relationship between inflammatory bowel disease cancer and genetics to improve detection of IBD cancer. In her free time, she enjoys dancing and reading. Email contact: samudhan@ucsd.edu
-
-&nbsp;
-
-&nbsp; 
-
-![lori](/images/LorijaneRobles_headshot.jpg){: .align-left}
-<h3>Lorijane Robles</h3>
-Lori is a pre-med undergraduate student at UCSD majoring in Human Biology, and minoring in Psychology. Currently, she is a Towns and Gowns Scholar, a mentee in UCSD BUMMP, and a member of the Roosevelt College Honors Program. She aspires to pursue a professional career in both Medicine and Clinical Research. As a fourth year, she currently works as a Clinical Research Coordinator for the UCSD GEODE Research Program that is Co-lead by Dr. Curtius. During her free-time, Lori enjoys fitness, rock-climbing, and spending time with Picogram (my cat).
-BUMMP=Biology Undergraduate and Master’s Mentorship Program
-
-
-&nbsp;
-
-&nbsp; 
-
-<h3>Summer research interns</h3>
-
-<img src="/images/Erica_Rodas_headshot.jpg" alt="erica" style="width:300px;">{: .align-left}
-<h3>Erica Rodas Montejo</h3>
-I am a rising senior at California State University San Marcos, where I am majoring in Chemistry. As a first-generation student from Guatemala, I am dedicated to advancing my education and plan to pursue a Ph.D. in Medicinal Chemistry. My career aspiration is to contribute to cancer research by developing therapeutics aimed at inhibiting the proliferation of cancer cells. Currently, I am working in Dr. Curtius’s lab, where my research focuses on exploring the microbiome in pre-cancerous conditions of the colon. Beyond my academic pursuits, I am actively involved in church service as a catechist, a role I deeply enjoy for the opportunity it provides to interact with and mentor young children.
-
-&nbsp; 
 
 <h2>Openings</h2>
 
  Please contact Dr. Curtius by email if you are a PhD student in the UCSD Bioinformatics & Systems Biology program who is interested in doing a research rotation, or if you are (or are soon to be) a doctoral graduate (PhD and/or MD) who is interested in applying to an open postdoctoral position on our team. I am happy to discuss available opportunities and potential projects, and to answer questions. 
-
 
 &nbsp;
 
 
 <h2>QCC Lab Alumni</h2>
 
+Lorijane Robles (undergraduate researcher 2023-2024): Research Associate at UC San Diego Health
+
+Sandrine Amudhan (Undergraduate researcher 2022-2024): Research Associate at UC San Diego Shiley Eye Institute
+
 Cindy Huang (Research data analyst 2023-2024)
 
-Busra Coskun (Summer NIH STEP-UP researcher 2023): current senior at Lower Merion High School 
+Erica Rodas Montejo (UCSD STARS Summer Intern 2024): current senior at California State University San Marcos
+
+Busra Coskun (Summer NIH STEP-UP researcher 2023): current undergraduate at University of Pennsylvania
 
 Sami Ryan (Summer DBMI Intern 2022): current undergraduate at UCLA
 
