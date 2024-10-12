@@ -49,7 +49,7 @@ Hyrum is a PhD student in the Biomedical informatics (BMI) program. He graduated
 
 &nbsp;
 
-![sam](/images/SamReynolds_headshot.jpeg){: .align-left}
+<img src="/images/SamReynolds_headshot.jpeg" alt="sam" style="width:300px;">{: .align-left}
 <h3>Sam Reynolds</h3>
 Sam is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated from Dartmouth College in 2023 with a B.A. in Biology and a minor in computer science. His current research interests include DNA methylation, machine learning, and cancer modeling. His current work focuses on understanding clonal expansion in Barret’s esophagus. In his free time, he enjoys surfing, skateboarding, and spearfishing. Email contact: srreynolds@ucsd.edu
 
