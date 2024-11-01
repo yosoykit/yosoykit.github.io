@@ -71,7 +71,7 @@ Mengxue is a first-year master's student in biostatistics at UCSD, currently int
 
 <h3>Undergraduate researchers</h3>
 
-<img src="/images/LanaChuang_headshot.jpeg" style="width:275px;">{: .align-left}
+<img src="/images/LanaChuang_headshot.jpg" style="width:275px;">{: .align-left}
 <h3>Lana Chuang</h3>
 Lana is currently an Undergraduate Student at UCSD majoring in Biology w/ Specialization in Bioinformatics and minoring in Computer Science. She is an Industry Relations Chair in the Undergraduate Bioinformatics Club and a member of Bioscholars, the biology honors program. In Curtius Lab, she is involved in isolating and purifying IBD patient tissue samples to send off for sequencing as well as getting into the data analysis side of the lab. In her free time, she likes to play badminton and soccer, binge different shows, listen to K-pop, play piano, and play video games. Email Contact: Lachuang@ucsd.edu
 
