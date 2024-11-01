@@ -69,11 +69,11 @@ Mengxue is a first-year master's student in biostatistics at UCSD, currently int
 
 &nbsp;
 
-<h3>Software engineer</h3>
+<h3>Undergraduate researchers</h3>
 
-![dante](/images/TylerBath_headshot.jpg){: .align-left}
-<h3>Tyler Bath</h3>
-Tyler is a software engineer at the UCSD Division of Biomedical Informatics who works with Dr. Kit Curtius's team. He recieved a B.S. in Computer Science from UCSD in 2014. His recent research focuses on protecting patient privacy, distributed analytics, and automation of pipelines and workflows via intuitive web interfaces. His free time is spent hiking with his dog, gardening, or diy hobbies from woodworking to 3d printing.
+<img src="/images/LanaChuang_headshot.jpeg" style="width:275px;">{: .align-left}
+<h3>Lana Chuang</h3>
+Lana is currently an Undergraduate Student at UCSD majoring in Biology w/ Specialization in Bioinformatics and minoring in Computer Science. She is an Industry Relations Chair in the Undergraduate Bioinformatics Club and a member of Bioscholars, the biology honors program. In Curtius Lab, she is involved in isolating and purifying IBD patient tissue samples to send off for sequencing as well as getting into the data analysis side of the lab. In her free time, she likes to play badminton and soccer, binge different shows, listen to K-pop, play piano, and play video games. Email Contact: Lachuang@ucsd.edu
 
 &nbsp;
 
@@ -89,7 +89,7 @@ Tyler is a software engineer at the UCSD Division of Biomedical Informatics who 
 
 <h2>QCC Lab Alumni</h2>
 
-Lorijane Robles (undergraduate researcher 2023-2024): Research Associate at UC San Diego Health
+Lorijane Robles (Undergraduate researcher 2023-2024): Research Associate at UC San Diego Health
 
 Sandrine Amudhan (Undergraduate researcher 2022-2024): Research Associate at UC San Diego Shiley Eye Institute
 
