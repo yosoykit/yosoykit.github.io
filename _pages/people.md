@@ -79,6 +79,7 @@ Lana is currently an Undergraduate Student at UCSD majoring in Biology w/ Specia
 
 &nbsp; 
 
+<<<<<<< HEAD
 &nbsp;
 
 <h3>Medical residents</h3>
@@ -91,6 +92,8 @@ Anna Dornisch is a resident physician in the department of Radiation Medicine an
 
 &nbsp; 
 
+=======
+>>>>>>> origin
 
 <h2>Openings</h2>
 
