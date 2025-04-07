@@ -57,10 +57,6 @@ Sam is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 <h3>Master's student researchers</h3>
 
 ![menxue](/images/Menxue_Xia_headshot.jpg){: .align-left}
@@ -79,7 +75,6 @@ Lana is currently an Undergraduate Student at UCSD majoring in Biology w/ Specia
 
 &nbsp; 
 
-&nbsp;
 
 <h3>Medical residents</h3>
 
