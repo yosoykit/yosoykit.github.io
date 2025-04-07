@@ -27,7 +27,7 @@ The following are some examples of our collaborative research in GI cancer contr
 <h3>Methods: </h3> 
   Genome sequencing, bioinformatics, phylogenetics, biostatistics, predictive modeling, longitudinal data analysis
 <h3>Reference links with applications: </h3>
-1. [Copy number alterations precede cancers in inflammatory bowel disease](https://gut.bmj.com/content/68/6/985.abstract)
+1. [Copy number alterations predict cancer in inflammatory bowel disease](https://gut.bmj.com/content/74/5/740.abstract)
 2. [Efficacy of screening modalities for detecting high-risk dysplasia in Barrett's esophagus](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004272)
 
 <h2> <em>When</em> are patients most at risk of premalignancy and would benefit from screening? </h2>

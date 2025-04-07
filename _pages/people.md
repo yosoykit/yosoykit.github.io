@@ -12,7 +12,7 @@ author_profile: true
 
 <h2>About Kit</h2>
 
-In July 2020, I started as an Assistant Professor at UCSD in the Division for Biomedical Informatics, Department of Medicine. I am also an Associate Member of the Cancer Control Program at UCSD Moores Cancer Center. Previous to this, I held a Medical Research Council Rutherford Fellowship at Barts Cancer Institute in London UK, where I began as a postdoc in Prof Trevor Graham’s Evolution and Cancer lab in 2016. I was a Gastroenterology Research Fellow in the University of Washington Department of Medicine working with Dr. John Inadomi before moving to the UK. I received my PhD in Applied Mathematics from UW in 2015, working with advisor Dr. Georg Luebeck at the Fred Hutchinson Cancer Research Center, and obtained a BS in Mathematics from UCLA in 2010. 
+In July 2020, I started as an Assistant Professor at UCSD in the Division for Biomedical Informatics, Department of Medicine. I am also a Full Member of the Cancer Control Program at UCSD Moores Cancer Center. Previous to this, I held a Medical Research Council Rutherford Fellowship at Barts Cancer Institute in London UK, where I began as a postdoc in Prof Trevor Graham’s Evolution and Cancer lab in 2016. I was a Gastroenterology Research Fellow in the University of Washington Department of Medicine working with Dr. John Inadomi before moving to the UK. I received my PhD in Applied Mathematics from UW in 2015, working with advisor Dr. Georg Luebeck at the Fred Hutchinson Cancer Research Center, and obtained a BS in Mathematics from UCLA in 2010. 
 
 <h3>Contact</h3>
 
@@ -22,7 +22,7 @@ Address: Division of Biomedical Informatics, 9500 Gilman Drive, La Jolla, CA 920
 
 <h2>Lab members</h2>
 
-<h3>Graduate students</h3>
+<h3>PhD students</h3>
 
 ![caitlin](/images/CaitlinGuccione_small.png){: .align-left}
 <h3>Caitlin Guccione</h3>
@@ -37,6 +37,10 @@ Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduat
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
 ![hyrum](/images/HyrumEddington_headshot.jpg){: .align-left}
 <h3>Hyrum Eddington</h3>
 Hyrum is a PhD student in the Biomedical informatics (BMI) program. He graduated from Brigham Young University in Bioinformatics in 2020 and spent 3 years as a data analyst at the Stanford Department of Surgery before coming to UCSD. His current research projects are focused in cancer genomics, particularly in cancer immunology and exploring the shared role of the immune system in autoimmune disorders and cancer.  He enjoys rock climbing, pickleball, and anything sci-fi fantasy related. Email contact: heddington@ucsd.edu
@@ -45,64 +49,67 @@ Hyrum is a PhD student in the Biomedical informatics (BMI) program. He graduated
 
 &nbsp;
 
+<img src="/images/SamReynolds_headshot.jpeg" alt="sam" style="width:275px;">{: .align-left}
+<h3>Sam Reynolds</h3>
+Sam is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated from Dartmouth College in 2023 with a B.A. in Biology and a minor in computer science. His current research interests include DNA methylation, machine learning, and cancer modeling. His current work focuses on understanding clonal expansion in Barret’s esophagus. In his free time, he enjoys surfing, skateboarding, and spearfishing. Email contact: srreynolds@ucsd.edu
 
 &nbsp;
 
 &nbsp;
 
-
-<h3>Research data analyst</h3>
-
-![dante](/images/CindyH_headshot.jpg){: .align-left}
-<h3>Cindy Huang</h3>
-Cindy (Xinyi) Huang is a statistician who currently works in Dr. Kit Curtius's team, collaborating closely with Dr. Samir Gupta's team. She received her undergraduate degree in Statistics from UC San Diego in 2021 and completed her Master's degree in Biostatistics from the same university in 2023. With her expertise in statistical methods and their applications, Cindy is actively involved in cancer-related research, particularly in analyzing VA databases. In her free time, Cindy enjoys cooking, bird watching, and playing the traditional Chinese instrument, the Erhu. Email contact: xih057@health.ucsd.edu.
+&nbsp;
 
 &nbsp;
 
-&nbsp; 
+<h3>Master's student researchers</h3>
 
-<h3>Software engineer</h3>
-
-![dante](/images/TylerBath_headshot.jpg){: .align-left}
-<h3>Tyler Bath</h3>
-Tyler is a software engineer at the UCSD Division of Biomedical Informatics who works with Dr. Kit Curtius's team. He recieved a B.S. in Computer Science from UCSD in 2014. His recent research focuses on protecting patient privacy, distributed analytics, and automation of pipelines and workflows via intuitive web interfaces. His free time is spent hiking with his dog, gardening, or diy hobbies from woodworking to 3d printing.
+![menxue](/images/Menxue_Xia_headshot.jpg){: .align-left}
+<h3>Mengxue Xia</h3>
+Mengxue is a first-year master's student in biostatistics at UCSD, currently interning with Dr. Kit Curtius's team for summer 2024. She has a bachelor's degree in Chemical Engineering and has two years of experience as a lab researcher in the pharmaceutical industry, focusing on the development of anti-cancer drugs. Mengxue aims to leverage her interdisciplinary background in drug discovery and statistics to generate unique insights in cancer genomics. In her spare time, she enjoys playing tennis, editing videos, and traveling. Email contact: mexia@ucsd.edu
 
 &nbsp;
-
-&nbsp; 
 
 <h3>Undergraduate researchers</h3>
 
-![sandrine](/images/SandrineAmudhan.png){: .align-left}
-<h3>Sandrine Amudhan</h3>
-Sandrine is an undergraduate student at UCSD, majoring in Molecular and Cell Biology. Her interest is in Bioinformatics/Bioengineering, and hoping to focus her graduate studies on these fields. She is currently involved in Dr. Curtius' research analyzing data to study the relationship between inflammatory bowel disease cancer and genetics to improve detection of IBD cancer. In her free time, she enjoys dancing and reading. Email contact: samudhan@ucsd.edu
+<img src="/images/LanaChuang_headshot.jpg" style="width:275px;">{: .align-left}
+<h3>Lana Chuang</h3>
+Lana is currently an Undergraduate Student at UCSD majoring in Biology w/ Specialization in Bioinformatics and minoring in Computer Science. She is an Industry Relations Chair in the Undergraduate Bioinformatics Club and a member of Bioscholars, the biology honors program. In Curtius Lab, she is involved in isolating and purifying IBD patient tissue samples to send off for sequencing as well as getting into the data analysis side of the lab. In her free time, she likes to play badminton and soccer, binge different shows, listen to K-pop, play piano, and play video games. Email Contact: Lachuang@ucsd.edu
 
 &nbsp;
 
 &nbsp; 
 
-![lori](/images/LorijaneRobles_headshot.jpg){: .align-left}
-<h3>Lorijane Robles</h3>
-Lori is a pre-med undergraduate student at UCSD majoring in Human Biology, and minoring in Psychology. Currently, she is a Towns and Gowns Scholar, a mentee in UCSD BUMMP, and a member of the Roosevelt College Honors Program. She aspires to pursue a professional career in both Medicine and Clinical Research. As a fourth year, she currently works as a Clinical Research Coordinator for the UCSD GEODE Research Program that is Co-lead by Dr. Curtius. During her free-time, Lori enjoys fitness, rock-climbing, and spending time with Picogram (my cat).
-BUMMP=Biology Undergraduate and Master’s Mentorship Program
+&nbsp;
+
+<h3>Medical residents</h3>
+
+<img src="/images/AnnaDornisch_Headshot.jpg style="width:275px;">{: .align-left}
+<h3>Anna Dornisch, MD MAS </h3>
+Anna Dornisch is a resident physician in the department of Radiation Medicine and Applied Sciences. She graduated from UCLA with a B.S . in Physiological Sciences with a minor in Society \& Genetics. During medical school at UCSD, she completed a master’s degree in clinical research, focusing on cost-effectiveness and survivorship. With a goal of maximizing quality of life during cancer care and in survivorship, Dr. Dornisch is interested in utilizing clinical trial design to understand the impact of therapies on quality of life at the patient level and cost-effectiveness at a societal level. Outside of work, Dr. Dornisch enjoys spending as much time outdoors as possible, whether she’s riding horses, running on the beach, hiking with her dog, or spending time with family and friends and enjoying the amazing food that San Diego has to offer.
+
+&nbsp;
 
 &nbsp; 
 
-&nbsp; 
-
-&emsp;
 
 <h2>Openings</h2>
 
  Please contact Dr. Curtius by email if you are a PhD student in the UCSD Bioinformatics & Systems Biology program who is interested in doing a research rotation, or if you are (or are soon to be) a doctoral graduate (PhD and/or MD) who is interested in applying to an open postdoctoral position on our team. I am happy to discuss available opportunities and potential projects, and to answer questions. 
-
 
 &nbsp;
 
 
 <h2>QCC Lab Alumni</h2>
 
-Busra Coskun (Summer NIH STEP-UP researcher 2023): current senior at Lower Merion High School 
+Lorijane Robles (Undergraduate researcher 2023-2024): Research Associate at UC San Diego Health
+
+Sandrine Amudhan (Undergraduate researcher 2022-2024): Research Associate at UC San Diego Shiley Eye Institute
+
+Cindy Huang (Research data analyst 2023-2024)
+
+Erica Rodas Montejo (UCSD STARS Summer Intern 2024): current senior at California State University San Marcos
+
+Busra Coskun (Summer NIH STEP-UP researcher 2023): current undergraduate at University of Pennsylvania
 
 Sami Ryan (Summer DBMI Intern 2022): current undergraduate at UCLA
 
