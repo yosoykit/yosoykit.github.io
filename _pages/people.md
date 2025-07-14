@@ -63,7 +63,7 @@ Sam is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated
 
 <h3>Postdocs</h3>
 
-<img src="/images/headshot_zhl.png" alt="sam" style="width:275px;">{: .align-left}
+<img src="/images/headshot_zh.png" alt="ZH" style="width:275px;">{: .align-left}
 <h3>Zhijian Hu</h3>
 Zhijian graduated from the University of Michigan in 2025 with a PhD in Biophysics and an M.S. in Applied Mathematics. His current research focuses on modeling cancer risk dynamics and identifying biomarkers indicative of early-stage onset and recurrence, through the integration of spatiotemporal modeling and machine learning methods. In his free time, he enjoys watching crime movies, hiking, cross-country skiing and playing basketball with his friends. Email contact: zhh093@health.ucsd.edu
 
@@ -88,13 +88,11 @@ Anna Dornisch is a resident physician in the department of Radiation Medicine an
 
 &nbsp;
 
-&nbsp; 
-
 <h3>Research interns</h3>
 
 <img src="/images/headshot_KK.jpg" style="width:275px;">{: .align-left}
 <h3>Kavya Kamath </h3>
-Kavya is an intern in the Department of Biomedical Informatics (DBMI) at UCSD for summer 2025. She is an undergraduate student at Princeton University pursuing a major in Molecular Biology with minors in Quantitative \& Computational Biology, Statistics \& Machine Learning, and Computer Science. Her research interests include cellular modeling and cancer development and progression. Her work in the QCC lab is centered on analyzing and visualizing the relationship between genomic copy number alterations and dysplastic phenotype in patients with IBD. In her free time, she enjoys bhangra, dancing, and reading. Email contact: kkamath@health.ucsd.edu (edited) 
+Kavya is an intern in DBMI for summer 2025. She is an undergraduate student at Princeton University pursuing a major in Molecular Biology with minors in Quantitative \& Computational Biology, Statistics \& Machine Learning, and Computer Science. Her research interests include cellular modeling and cancer development and progression. Her work in the QCC lab is centered on analyzing and visualizing the relationship between genomic copy number alterations and dysplastic phenotype in patients with IBD. In her free time, she enjoys bhangra, dancing, and reading. Email contact: kkamath@health.ucsd.edu (edited) 
 
 &nbsp;
 
