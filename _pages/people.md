@@ -77,8 +77,6 @@ Lana is currently an Undergraduate Student at UCSD majoring in Biology w/ Specia
 
 &nbsp;
 
-&nbsp; 
-
 
 <h3>Medical residents</h3>
 
