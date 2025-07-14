@@ -61,11 +61,11 @@ Sam is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated
 
 &nbsp;
 
-<h3>Master's student researchers</h3>
+<h3>Postdocs</h3>
 
-![menxue](/images/Menxue_Xia_headshot.jpg){: .align-left}
-<h3>Mengxue Xia</h3>
-Mengxue is a first-year master's student in biostatistics at UCSD, currently interning with Dr. Kit Curtius's team for summer 2024. She has a bachelor's degree in Chemical Engineering and has two years of experience as a lab researcher in the pharmaceutical industry, focusing on the development of anti-cancer drugs. Mengxue aims to leverage her interdisciplinary background in drug discovery and statistics to generate unique insights in cancer genomics. In her spare time, she enjoys playing tennis, editing videos, and traveling. Email contact: mexia@ucsd.edu
+<img src="/images/headshot_zhl.png" alt="sam" style="width:275px;">{: .align-left}
+<h3>Zhijian Hu</h3>
+Zhijian graduated from the University of Michigan in 2025 with a PhD in Biophysics and an M.S. in Applied Mathematics. His current research focuses on modeling cancer risk dynamics and identifying biomarkers indicative of early-stage onset and recurrence, through the integration of spatiotemporal modeling and machine learning methods. In his free time, he enjoys watching crime movies, hiking, cross-country skiing and playing basketball with his friends. Email contact: zhh093@health.ucsd.edu
 
 &nbsp;
 
@@ -85,6 +85,16 @@ Lana is currently an Undergraduate Student at UCSD majoring in Biology w/ Specia
 <img src="/images/AnnaDornisch_Headshot.jpg" style="width:275px;">{: .align-left}
 <h3>Anna Dornisch, MD MAS </h3>
 Anna Dornisch is a resident physician in the department of Radiation Medicine and Applied Sciences. She graduated from UCLA with a B.S. in Physiological Sciences with a minor in Society & Genetics. During medical school at UCSD, she completed a master’s degree in clinical research, focusing on cost-effectiveness and survivorship. With a goal of maximizing quality of life during cancer care and in survivorship, Dr. Dornisch is interested in utilizing clinical trial design to understand the impact of therapies on quality of life at the patient level and cost-effectiveness at a societal level. Outside of work, Dr. Dornisch enjoys spending as much time outdoors as possible, whether she’s riding horses, running on the beach, hiking with her dog, or spending time with family and friends and enjoying the amazing food that San Diego has to offer.
+
+&nbsp;
+
+&nbsp; 
+
+<h3>Research interns</h3>
+
+<img src="/images/headshot_KK.jpg" style="width:275px;">{: .align-left}
+<h3>Kavya Kamath </h3>
+Kavya is an intern in the Department of Biomedical Informatics (DBMI) at UCSD for summer 2025. She is an undergraduate student at Princeton University pursuing a major in Molecular Biology with minors in Quantitative \& Computational Biology, Statistics \& Machine Learning, and Computer Science. Her research interests include cellular modeling and cancer development and progression. Her work in the QCC lab is centered on analyzing and visualizing the relationship between genomic copy number alterations and dysplastic phenotype in patients with IBD. In her free time, she enjoys bhangra, dancing, and reading. Email contact: kkamath@health.ucsd.edu (edited) 
 
 &nbsp;
 
