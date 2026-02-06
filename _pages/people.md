@@ -24,12 +24,6 @@ Address: Division of Biomedical Informatics, 9500 Gilman Drive, La Jolla, CA 920
 
 <h3>PhD students</h3>
 
-<img src="/images/CaitlinGuccione_small.png" alt="sam" style="width:275px;">{: .align-left}
-<h3>Caitlin Guccione</h3>
-Caitlin is currently a Ph.D. student in the Bioinformatics and Systems Biology (BISB) program co-advised by Dr. Kit Curtius and Dr. Rob Knight. She graduated from the University of Rhode Island in 2020 with an undergraduate degree in applied mathematics and computer science along with a Masters in applied mathematics. Her current research is focused in the intersection between the human microbiome and cancer. In her free time she enjoys surfing and open water swimming. Email contact: cguccion@ucsd.edu
-
-&nbsp;
-
 
 ![brian](/images/Brian_johnson_headshot_small.jpg){: .align-left}
 <h3>Brian Johnson</h3>
@@ -77,14 +71,6 @@ Lana is currently an Undergraduate Student at UCSD majoring in Biology w/ Specia
 
 &nbsp;
 
-
-<h3>Medical residents</h3>
-
-<img src="/images/AnnaDornisch_Headshot.jpg" style="width:275px;">{: .align-left}
-<h3>Anna Dornisch, MD MAS </h3>
-Anna Dornisch is a resident physician in the department of Radiation Medicine and Applied Sciences. She graduated from UCLA with a B.S. in Physiological Sciences with a minor in Society & Genetics. During medical school at UCSD, she completed a master’s degree in clinical research, focusing on cost-effectiveness and survivorship. With a goal of maximizing quality of life during cancer care and in survivorship, Dr. Dornisch is interested in utilizing clinical trial design to understand the impact of therapies on quality of life at the patient level and cost-effectiveness at a societal level. Outside of work, Dr. Dornisch enjoys spending as much time outdoors as possible, whether she’s riding horses, running on the beach, hiking with her dog, or spending time with family and friends and enjoying the amazing food that San Diego has to offer.
-
-&nbsp;
 
 <h3>Research interns</h3>
 
