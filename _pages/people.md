@@ -98,7 +98,7 @@ Lorijane Robles (Undergraduate researcher 2023-2024): Research Associate at UC S
 
 Sandrine Amudhan (Undergraduate researcher 2022-2024): Research Associate at UC San Diego Shiley Eye Institute
 
-Cindy Huang (Research data analyst 2023-2024)
+Cindy Huang (Research data analyst 2023-2024): Biostatistician III at ForHealth Consulting at UMass Chan Medical School
 
 Erica Rodas Montejo (UCSD STARS Summer Intern 2024): current senior at California State University San Marcos
 
