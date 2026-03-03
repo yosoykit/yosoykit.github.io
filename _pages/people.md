@@ -92,6 +92,8 @@ Kavya is an intern in DBMI for summer 2025. She is an undergraduate student at P
 
 <h2>QCC Lab Alumni</h2>
 
+Caitlin Guccione (PhD student 2020-2025): Senior Bioinformatics Scientist at Natera
+
 Lorijane Robles (Undergraduate researcher 2023-2024): Research Associate at UC San Diego Health
 
 Sandrine Amudhan (Undergraduate researcher 2022-2024): Research Associate at UC San Diego Shiley Eye Institute

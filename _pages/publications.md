@@ -5,10 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 <i>italicized name</i>= QCC lab trainee
-<h2>Preprints</h2>
-<p>37.  <i>Guccione C</i>, Sfiligoi I, Gonzalez A, Shaffer JP, ..., <strong>Curtius K</strong>. (2026) <a href="https://www.biorxiv.org/content/10.1101/2025.01.14.633020v1.abstract" target="_blank">Community assembly modeling of the microbiome within Barrett’s esophagus and esophageal adenocarcinoma.</a>  bioRxiv
-doi: 10.1101/2025.01.14.633020 (in press)
 <h2>Peer-reviewed articles</h2>
+<p>38.  <i>Johnson B</i>, <i>Eddington H</i>, Kabir M, Gupta S, Shah SC, <strong>Curtius K</strong>. (2026) <a href="https://www.cghjournal.org/article/S1542-3565(26)00066-2/fulltext" target="_blank">Automated phenotyping with AI predicts future advanced neoplasia risk in colitis-associated low-grade dysplasia.</a>  Clin Gastroenterol Hepatol Feb 17:S1542-3565(26)00066-2. doi: 10.1016/j.cgh.2026.01.037. Online ahead of print.
+<p>37.  <i>Guccione C</i>, Sfiligoi I, Gonzalez A, Shaffer JP, ..., <strong>Curtius K</strong>. (2026) <a href="https://link.springer.com/article/10.1186/s12864-026-12545-w" target="_blank">Community assembly modeling of the microbiome within Barrett’s esophagus and esophageal adenocarcinoma.</a>  BMC Genom 27:236.
 </p><p>36.  Weng Y, <i>Guccione C</i>, McDonald D, Oles R, et al. (2025) <a href="https://www.nature.com/articles/s42003-025-09007-6" target="_blank">Calculating fast differential genome coverages among metagenomic sources using micov.</a> Commun Biol 8:1624
 <p>35.  <i>Johnson B</i>, <i>Bath T</i>, <i>Huang X</i>, Lamm M, ..., <strong>Curtius K</strong>. (2025) <a href="https://bmjopengastro.bmj.com/content/12/1/e001896" target="_blank">Large language models for extracting histopathologic diagnoses of colorectal cancer and dysplasia from electronic health records.</a>  BMJ Open Gastroenterol 12:e001896
 <p>34.  Al Bakir I*, <strong>Curtius K*</strong>, Cresswell GD, Grant HE, Nasdreddin N, et al. (2025)  <a href="https://gut.bmj.com/content/74/5/740.abstract" target="_blank">Low-coverage whole genome sequencing of low-grade dysplasia strongly predicts advanced neoplasia risk in ulcerative colitis.</a> Gut 68:985-995.  *joint first authors
