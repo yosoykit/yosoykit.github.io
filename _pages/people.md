@@ -12,7 +12,7 @@ author_profile: true
 
 <h2>About Kit</h2>
 
-In July 2020, I started as an Assistant Professor at UCSD in the Division for Biomedical Informatics, Department of Medicine. I am also a Full Member of the Cancer Control Program at UCSD Moores Cancer Center. Previous to this, I held a Medical Research Council Rutherford Fellowship at Barts Cancer Institute in London UK, where I began as a postdoc in Prof Trevor Graham’s Evolution and Cancer lab in 2016. I was a Gastroenterology Research Fellow in the University of Washington Department of Medicine working with Dr. John Inadomi before moving to the UK. I received my PhD in Applied Mathematics from UW in 2015, working with advisor Dr. Georg Luebeck at the Fred Hutchinson Cancer Research Center, and obtained a BS in Mathematics from UCLA in 2010. 
+I am currently an Associate Professor at UCSD in the Division for Biomedical Informatics, Department of Medicine and Full Member of the Cancer Control Program at UCSD Moores Cancer Center. Previous to joining UCSD, I held a Medical Research Council Rutherford Fellowship at Barts Cancer Institute in London UK, where I began as a postdoc in Prof Trevor Graham’s Evolution and Cancer lab in 2016. I was a Gastroenterology Research Fellow in the University of Washington Department of Medicine working with Dr. John Inadomi before moving to the UK. I received my PhD in Applied Mathematics from UW in 2015, working with advisor Dr. Georg Luebeck at the Fred Hutchinson Cancer Center, and obtained a BS in Mathematics from UCLA in 2010. 
 
 <h3>Contact</h3>
 
@@ -24,16 +24,6 @@ Address: Division of Biomedical Informatics, 9500 Gilman Drive, La Jolla, CA 920
 
 <h3>PhD students</h3>
 
-
-![brian](/images/Brian_johnson_headshot_small.jpg){: .align-left}
-<h3>Brian Johnson</h3>
-Brian is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated from Rutgers University in 2020 with a B.S. in Physics. His current research interests are wide-ranging, but generally focus on analyzing multi-omic data to improve detection and treatment of cancer. His current work focuses on the phylogenetics of neutrally evolving tumors. In his free time, he enjoys surfing and running. Email contact: bdj001@ucsd.edu
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 ![hyrum](/images/HyrumEddington_headshot.jpg){: .align-left}
 <h3>Hyrum Eddington</h3>
@@ -56,6 +46,16 @@ Sam is a Ph.D. student in the Biomedical Informatics (BMI) program. He graduated
 &nbsp;
 
 <h3>Postdocs</h3>
+
+![brian](/images/Brian_johnson_headshot_small.jpg){: .align-left}
+<h3>Brian Johnson</h3>
+Brian has a Ph.D. student in the UCSD Biomedical Informatics (BMI) program. He graduated from Rutgers University in 2020 with a B.S. in Physics. His current research interests are wide-ranging, but generally focus on analyzing multi-omic data to improve detection and treatment of cancer. His current work focuses on the phylogenetics of neutrally evolving tumors. In his free time, he enjoys surfing and running. Email contact: bdj001@ucsd.edu
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 <img src="/images/headshot_zh.png" alt="ZH" style="width:275px;">{: .align-left}
 <h3>Zhijian Hu</h3>
