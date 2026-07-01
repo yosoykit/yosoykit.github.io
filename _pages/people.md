@@ -12,7 +12,7 @@ author_profile: true
 
 <h2>About Kit</h2>
 
-I am currently an Associate Professor at UCSD in the Division for Biomedical Informatics, Department of Medicine and Full Member of the Cancer Control Program at UCSD Moores Cancer Center. Previous to joining UCSD, I held a Medical Research Council Rutherford Fellowship at Barts Cancer Institute in London UK, where I began as a postdoc in Prof Trevor Graham’s Evolution and Cancer lab in 2016. I was a Gastroenterology Research Fellow in the University of Washington Department of Medicine working with Dr. John Inadomi before moving to the UK. I received my PhD in Applied Mathematics from UW in 2015, working with advisor Dr. Georg Luebeck at the Fred Hutchinson Cancer Center, and obtained a BS in Mathematics from UCLA in 2010. 
+I am an Associate Professor at UCSD in the Division for Biomedical Informatics, Department of Medicine and Full Member of the Cancer Control Program at UCSD Moores Cancer Center. Previous to joining UCSD, I held a Medical Research Council Rutherford Fellowship at Barts Cancer Institute in London UK, where I began as a postdoc in Prof Trevor Graham’s Evolution and Cancer lab in 2016. I was a Gastroenterology Research Fellow in the University of Washington Department of Medicine working with Dr. John Inadomi before moving to the UK. I received my PhD in Applied Mathematics from UW in 2015, working with advisor Dr. Georg Luebeck at the Fred Hutchinson Cancer Center, and obtained a BS in Mathematics from UCLA in 2010. 
 
 <h3>Contact</h3>
 
