@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Click here to view my CV (updated 07/01/26)](http:/yosoykit.github.io/_pages/Curtiuscv_01072022.pdf)
+[Click here to view my CV (updated 07/01/26)](http:/yosoykit.github.io/_pages/Curtiuscv_01072026.pdf)
